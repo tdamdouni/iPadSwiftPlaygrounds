@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Calcula más o menos dónde debe estar el centro de cada texto y usa `Point(x:y:)` para crear un punto para tales coordenadas.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`let graphic3 = Graphic(text: caption3)`\
+`scene.place(graphic3, at: Point(x: 250, y: -290))`\
+`let graphic4 = Graphic(text: caption4)`\
+`scene.place(graphic4, at: Point(x: -350, y: -340))`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Bien hecho!
+
+**Idea:** ¡usa una foto tuya como imagen de fondo (quizá una selfie con tus amigos) y agrégale algo de texto!
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

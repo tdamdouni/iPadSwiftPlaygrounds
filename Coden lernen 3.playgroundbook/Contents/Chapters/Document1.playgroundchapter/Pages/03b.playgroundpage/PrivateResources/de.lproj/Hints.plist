@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Versuche es mit einer anderen Schrift, zum Beispiel `bradleyHand`, `markerfelt` oder `zapfino`.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Verwende das Werkzeug **Bewegen**, um die Positionen deiner Grafiken anzupassen.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Du kannst die Eigenschaft `rotation` von `Graphic` so verwenden: `graphic1.rotation = 30`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

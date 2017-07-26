@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Modifica la condición de tu [sentencia `if`](glossary://if%20statement) para que verifique las coordenadas que tengan una columna mayor que `5` o una fila menor que `4`. Recuerda la diferencia entre los operadores [&amp;&amp;](glossary://logical%20AND%20operator) y [||](glossary://logical%20OR%20operator).</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

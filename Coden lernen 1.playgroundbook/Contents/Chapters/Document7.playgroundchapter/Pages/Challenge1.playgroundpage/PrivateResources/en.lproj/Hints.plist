@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>First, look for a pattern in the puzzle. When you find a pattern, think through which rules and instructions will solve each piece of that pattern. When you figure out an approach, write your code.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Notice that whenever gems are present, the path moves to the right. Whenever switches are present, the path moves to the left. Use this pattern to create your algorithm.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

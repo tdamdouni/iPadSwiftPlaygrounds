@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Recuerda que el escenario es cuadrado y se extiende desde `Point(x: -500, y: -500)` en la parte inferior izquierda hasta `Point(x: 500, y: 500)` en la parte superior derecha.
+</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Haz un bosquejo del universo en un papel y marca el origen (0, 0). Luego marca el lugar donde crees que está el centro de la galaxia y calcula más o menos cuáles son sus coordenadas.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+La galaxia se encuentra en el cuadrante superior derecho del escenario, por lo que sus coordenadas son algo así como: (x, y).
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Tú puedes!
+
+Cuando quieras colocar un nuevo gráfico en el escenario, primero crea una instancia del tipo `Graphic` y luego llama al método `place()` del escenario, pasando la instancia de `Graphic` y un valor de `Point`.
+
+[**Siguiente página**](@next)
+            </string>
+		</dict>
+	</dict>
+</dict>
+</plist>

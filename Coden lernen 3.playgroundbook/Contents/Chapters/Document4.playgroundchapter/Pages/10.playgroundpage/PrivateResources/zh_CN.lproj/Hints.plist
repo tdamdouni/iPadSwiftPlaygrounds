@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+使用 `randomInt(from: 0, to: 23)` 获取随机音符。</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+如果音符声音太响，你可以添加可选的 `volume` 参数：\
+`playInstrument(.piano, note: 14, volume: 40)`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`let note = randomInt(from: 0, to: 15)`\
+`if graphic.text == "🍐" {`\
+`   playInstrument(.piano, note: note)`\
+`}`\
+`if graphic.text == "🍋" {`\
+`   playInstrument(.electricGuitar, note: note)`\
+`}`
+`if graphic.text == "🍊" {`\
+`   playInstrument(.cosmicDrums, note: note)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 非常不错！你掌握了弹奏音符的窍门。
+
+继续学习之前，请尝试一下不同的乐器和音符，玩得开心。
+
+[**下一页**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

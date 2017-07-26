@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+楽器のグラフィックを中心に近づけたり（音程を高くする場合）遠ざけたり（音程を低くする場合）には、 **移動** ツールを使います。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+あらかじめ2つの楽器のツールが用意されていますが、変更することも追加することもできます。コードの`// Add instrument tools`まで下にスクロールしてください。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+楽器のグラフィックの上で指をスライドさせてみてください。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+楽器だけにこだわる必要はありません。サウンド効果を再生したり、テキストを読み上げたりするツールを追加することもできます。
+		</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

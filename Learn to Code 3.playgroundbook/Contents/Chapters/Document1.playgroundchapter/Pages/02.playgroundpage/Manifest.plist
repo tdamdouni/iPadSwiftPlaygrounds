@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+You can choose a background image from the available images or from your photo library. You can even use the camera to take a photo for the background!
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Adding a Background</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

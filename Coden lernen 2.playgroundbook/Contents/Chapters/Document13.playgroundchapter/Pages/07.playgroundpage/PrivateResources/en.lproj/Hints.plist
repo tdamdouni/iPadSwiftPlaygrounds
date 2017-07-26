@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>The [array out of bounds error](glossary://array%20out%20of%20bounds%20error) happens when you try to access an item in the array that doesn’t exist.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

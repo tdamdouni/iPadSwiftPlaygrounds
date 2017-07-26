@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Tu dois tout d’abord définir la [propriété](glossary://property) `isActive` de `greenPortal` sur `false`. Autrement, chaque fois que tu essayeras d’atteindre un interrupteur, ton personnage sera téléporté ailleurs.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

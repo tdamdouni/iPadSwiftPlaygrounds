@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>2.0</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>1.1</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Learn to Code 3</string>
+	<key>Description</key>
+	<string>Dynamic Composer</string>
+	<key>ImageReference</key>
+	<string>LtC3-icon.png</string>
+	<key>ContentIdentifier</key>
+	<string>com.apple.playgrounds.ltc3</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>Document1.playgroundchapter</string>
+		<string>Document2.playgroundchapter</string>
+		<string>Document3.playgroundchapter</string>
+		<string>Document4.playgroundchapter</string>
+		<string>Document5.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

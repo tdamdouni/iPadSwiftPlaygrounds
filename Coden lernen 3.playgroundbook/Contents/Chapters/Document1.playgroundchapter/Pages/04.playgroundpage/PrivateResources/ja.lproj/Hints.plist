@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+`Graphic(image: image)`を使って`Graphic`（グラフィック）インスタンスを作成します。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+次のグラフィックの`position`（位置）を上、そして右に動かします:\
+`position.x += 75`\
+`position.y += 75`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Create a graphic with image.`\
+`let graphic = Graphic(image: image)`\
+`// Place graphic on the scene.`\
+`scene.place(graphic, at: position)`\
+`// Set position for next graphic.`\
+`position.x += 75`\
+`position.y += 75`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 惑星の配置の達人ですね!
+
+**課題:** コードを変更して、惑星の列を左上などの別の象眼に置くことができますか?
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Um ein Objekt aus einem Array zu entfernen, musst du die [Methode](glossary://method) **`remove(at: Int)`** mithilfe von [Punktnotation](glossary://dot%20notation) aufrufen: **`characters.remove(at: 3)`**</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

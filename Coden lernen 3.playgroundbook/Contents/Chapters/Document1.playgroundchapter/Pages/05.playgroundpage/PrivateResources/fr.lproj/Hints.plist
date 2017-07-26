@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Rappel :** Le premier élément d’un tableau se trouve à l’index 0.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Astuce :** Lorsque tu utilises des [tableaux](glossary://array) et des [index](glossary://index), il est parfois utile de prendre un crayon et une feuille de papier et de dessiner rapidement le tableau avec ses éléments et ses index.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Insert and remove items.`\
+`images.insert(rugbyBall, at: 1)`\
+`images.remove(at: 4)`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Super !
+
+Suivre correctement les index des tableaux peut être compliqué ! Imaginons que tu supprimes la planète Billiardball pour insérer la planète Rugbyball à la fin du tableau, après la planète Basketball. À quel index insérerais-tu la planète Rugbyball ?
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

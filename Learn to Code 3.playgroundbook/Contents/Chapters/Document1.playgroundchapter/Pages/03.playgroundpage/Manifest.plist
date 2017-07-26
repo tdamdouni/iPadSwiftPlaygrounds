@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+Sketch the x and y axes on paper to help you figure out the coordinates. Remember that x is the horizontal axis, and y the vertical, with (0, 0) at the center.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+The coordinates in the four quadrants will each have a different combination of positive or negative x, y values—top right: (+, +), bottom right: (+, -), bottom left: (-, -), and top left: (-, +).
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Placing Images</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Use `components(separatedBy: &quot; &quot;)` to split a string into an array of words.		
+		</string>
+		<string>
+Try `word.reversed()` or `word.shuffled()`.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`let words = secret.components(separatedBy: &quot; &quot;)`\
+`for word in words {`\
+`   scene.write(word.reversed())`\
+`}`
+	</string>
+	<key>success</key>
+	<string>
+### Super!
+
+Chopping up strings can be quite useful if, for example, you want to do something with each word in a string—like write it backward or jumble up the letters.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

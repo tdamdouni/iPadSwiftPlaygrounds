@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Denk daran, dass die Szene quadratisch ist und von `Point(x: -500, y: -500)` unten links bis `Point(x: 500, y: 500)` oben rechts geht.
+</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Male das Universum auf ein Blatt Papier und markiere den Ursprung mit (0, 0). Marke, wo du den Mittelpunkt des Universums vermutest und finde seine ungefähren Koordinaten heraus.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Die Galaxie befindet sich oben rechts in der Szene, ihre Koordinaten sehen also etwa so aus: (x, y).
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Du hast es raus!
+
+Wenn du eine neue Grafik in der Szene platzieren möchtest, erstelle zunächst eine Instanz des Typs `Graphic` und rufe dann die Methode `place()` der Szene auf und übergib die Instanz von `Graphic` und einen Wert für `Point`.
+
+[**Nächste Seite**](@next)
+            </string>
+		</dict>
+	</dict>
+</dict>
+</plist>

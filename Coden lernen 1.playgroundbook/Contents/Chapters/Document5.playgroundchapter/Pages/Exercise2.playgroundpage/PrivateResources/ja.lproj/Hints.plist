@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、`if`文を追加して、キャラクターが宝石の上にいるという条件を指定しましょう。次に、ショートカットバーで“&amp;&amp;”をタップして、左側が行き止まりという条件を追加します。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

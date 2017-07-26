@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{955, 0}</string>
+			<key>OriginalContent</key>
+			<string>moveForward()
+moveForward()
+</string>
+			<key>OriginalRange</key>
+			<string>{955, 28}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>moveForward()
+moveForward()
+</string>
+			<key>ModifiedRange</key>
+			<string>{980, 28}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1008, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>moveForward()
+</string>
+			<key>ModifiedRange</key>
+			<string>{1065, 14}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1065, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{1092, 0}</string>
+			<key>OriginalContent</key>
+			<string>moveForward()</string>
+			<key>OriginalRange</key>
+			<string>{1078, 13}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document1.playgroundchapter/Pages/Challenge2.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+Create a `Graphic` instance using `Graphic(image: image)`.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Move `position` up, and to the right, for the next graphic:\
+`position.x += 75`\
+`position.y += 75`
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Placing an Array of Images</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

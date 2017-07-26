@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>First, add a set of [Int](glossary://Int) values to your `heights` array. If you want to quickly add more items to your array, try tapping on the square brackets and dragging to the right.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

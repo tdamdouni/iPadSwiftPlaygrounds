@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+        <string>
+Use `scene.write()` and pass in a string to write words on the scene.
+        </string>
+        <string>
+When using strings, try not to get tied up in knots 😜.
+       	</string>
+	</array>
+	<key>success</key>
+	<string>
+### Great!
+
+Notice that each time you call `scene.write()`, the string is written to a new line.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

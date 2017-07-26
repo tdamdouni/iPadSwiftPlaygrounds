@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Ajoute une instruction `if` à l’intérieur de la boucle `for`, puis ajoute ta première condition. Dans la barre de raccourcis, touche l’opérateur `||` et ajoute ta deuxième condition. Crée également un bloc `else` pour faire avancer ton personnage si les deux conditions sont fausses.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Nesting Loops</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>You need to write two loops. Make the first—the [outer loop](glossary://outer%20loop)—run while Byte is not blocked. Make the second—the [inner loop](glossary://inner%20loop)—move Byte forward while not on a gem. The outer loop will continue to run the inner loop until the outer loop stops. In this way, the inner `while` loop runs continuously until the end condition is met.</string>
+		</dict>
+	</array>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PosterReference</key>
+	<string>LiveViewPoster.jpg</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+</dict>
+</plist>

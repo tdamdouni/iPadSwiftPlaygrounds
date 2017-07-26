@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Teleportiere deinen Charakter zunächst durch das blaue Portal, um die Edelsteine am gegenüberliegenden Portal zu erreichen. Vielleicht musst du das blaue Portal deaktivieren, um beide Edelsteine einzusammeln.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

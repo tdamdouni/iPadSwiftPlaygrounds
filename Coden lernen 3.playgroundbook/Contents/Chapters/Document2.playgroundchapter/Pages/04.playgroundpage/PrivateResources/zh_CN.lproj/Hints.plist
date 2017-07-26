@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+如果持续使 `index` 按 `1` 递增，它最终将指向 `animals` 数组的最后一项之外。如果发生这种情况，你可以将 `index` 设回为 `0`。然后它就可以再次循环数组。
+
+使 `index` 递增后，检查它是否等于 `animals.count`。如果是，将 `index` 设为等于 `0`，使它可以重新指向数组中的第一个项目。
+			</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 非常不错！
+
+请记住数组中的索引从 0（第一个项目）开始，并且最大值为数组总数减 1（最后一个项目）。因此，如果索引等于总数，说明索引超出了数组的最后一项，此时应当将索引设回为 0。
+
+[**下一页**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

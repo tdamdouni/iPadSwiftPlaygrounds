@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Si tu continues d’incrémenter `index` de `1`, il finira par pointer *au-delà* du dernier élément du tableau `animals`. Dans ce cas, remets `index` à `0`. Il est alors prêt à effectuer de nouveau une boucle à travers le tableau.
+
+Après avoir incrémenté `index`, vérifie s’il correspond à `animals.count`. Si oui, définis `index` sur `0` pour qu’il pointe de nouveau vers le premier élément du tableau.
+			</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Bien joué !
+
+Rappelle-toi que l’index d’un tableau commence à 0 (le premier élément) et peut aller jusqu’à -1 (le dernier élément). Si l’index est **égal** au nombre, l’index a dépassé la fin du tableau et il est temps de redéfinir l’index sur 0.
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

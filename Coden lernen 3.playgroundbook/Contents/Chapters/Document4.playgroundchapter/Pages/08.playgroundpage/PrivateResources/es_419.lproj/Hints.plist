@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array/>
+	<key>solution</key>
+	<string>
+`for graphic in graphics {`\
+`   squishGraphic(graphic: graphic)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Excelente!
+
+El escenario puede tener un solo botón al que le puedes dar un nombre y le puedes escribir una función de controlador de evento “tocar botón”. Con este botón, ¡puedes hacer muchas cosas muy útiles!
+
+[**Siguiente página**](@next)
+  	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

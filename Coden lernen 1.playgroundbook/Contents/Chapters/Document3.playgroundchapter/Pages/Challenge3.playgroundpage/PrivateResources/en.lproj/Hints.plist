@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>There are three major stairways to climb in this level. For each stairway, use a function that moves your character to the top, toggles the switch, and moves back down.
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+配列内の項目をランダムに指定するように`index`を設定します:\
+`let index = randomInt(from: 0, to: animals.count - 1)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+`rotation`（回転）には`0`度から`360`度までの`Double`（倍精度浮動小数点）値を指定できます。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Set index to a random value.`\
+`let index = randomInt(from: 0, to: animals.count - 1)`\
+\
+`// Scale and rotate graphic.`\
+`graphic.scale = randomDouble(from: 0.5, to: 2.0)`\
+`graphic.rotation = randomDouble(from: 0.0, to: 360.0)`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+すばらしい
+自分だけのイメージの配列を作ったり、`scale`（大きさ）や`rotation`（回転）を使ったりして、いろいろ試してみてください。
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

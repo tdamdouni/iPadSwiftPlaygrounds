@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Verwende `things[index]` und `colors[index]`, um das Weltallding und die Farbe zu erhalten.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`let graphic = Graphic(text: things[index])`\
+\
+`graphic.textColor = colors[index]`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Gut gemacht!
+
+Du kannst das Werkzeug **Text** verwenden, um Text zu platzieren, genau wie das Werkzeug **Image** verwendest, um Bilder zu platzieren. Beide Werkzeuge platzieren Instanzen des Typs `Graphic` in der Szene, wenn sich dein Finger bewegt.
+
+[**Nächste Seite**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

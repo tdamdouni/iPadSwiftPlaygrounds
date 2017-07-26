@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Ce puzzle peut te sembler différent des autres que tu as rencontrés, mais tu peux toujours le résoudre en utilisant la règle de la main droite. Continue à suivre le mur du labyrinthe qui se situe à ta droite et ton personnage finira par atteindre la gemme.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

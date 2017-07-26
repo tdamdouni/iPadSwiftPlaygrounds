@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Comme tu as pu le faire au cours des puzzles précédents, [initialise](glossary://initialization) d’abord ton personnage et ton expert. Appelle ensuite des [méthodes](glossary://method) sur ces [instances](glossary://instance) pour résoudre le puzzle.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

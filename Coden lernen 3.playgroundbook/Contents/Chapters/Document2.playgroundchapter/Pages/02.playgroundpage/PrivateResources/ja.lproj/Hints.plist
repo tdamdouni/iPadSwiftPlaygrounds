@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+`touch.previousPlaceDistance`が80より小さい場合は常に`addImage()`（イメージを追加）から戻るように、値を変更します。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### うまくいきましたか?
+
+もっと大きい値を使うと、`touch.previousPlaceDistance`がその値になるまでに指を大きく動かす必要があるので、星の間隔が広がります。いくつかの値を試してみてください。
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

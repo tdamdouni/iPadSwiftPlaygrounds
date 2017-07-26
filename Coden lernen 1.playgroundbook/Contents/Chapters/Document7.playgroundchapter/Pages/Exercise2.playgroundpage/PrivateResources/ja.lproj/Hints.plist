@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>今回のステージは、前のステージと似ていますが、少し違います。前のステージで書いたコードを見て、どこを直せばよいかを考えましょう。右だけでなく前も行き止まりになったときに、動きを変えなければいけないことに気づきましたか?</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>修改 [`if` 语句](glossary://if%20statement)的条件，使它检查列大于 `5` 或行小于 `4` 的坐标。请记住 [&amp;&amp;](glossary://logical%20AND%20operator) 运算符和 [||](glossary://logical%20OR%20operator) 运算符之间的区别！</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

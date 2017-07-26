@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Compute `index` from `touch.numberOfObjectsPlaced` using the % operator.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`let index = touch.numberOfObjectsPlaced % animals.count`
+	</string>
+	<key>success</key>
+	<string>
+### Well done!
+
+Part of the fun of coding is that there’s almost always another way to do something. In fact, coders often argue over different ways to write code! You can learn a lot by thinking about alternative ways to solve a problem.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

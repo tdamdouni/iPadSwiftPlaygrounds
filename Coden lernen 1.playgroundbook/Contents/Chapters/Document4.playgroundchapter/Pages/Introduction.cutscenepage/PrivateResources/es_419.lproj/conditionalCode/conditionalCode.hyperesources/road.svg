@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="road" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 464.5 892.4" style="enable-background:new 0 0 464.5 892.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#818284;}
+	
+		.st2{opacity:0.5;fill:none;stroke:#FFFFFF;stroke-width:8;stroke-miterlimit:10;stroke-dasharray:24,50;enable-background:new    ;}
+	.st3{opacity:0.5;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<title>road</title>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M271,367c-14.8,6.4-29.1,13.6-43,21.8v-346H0v768h228v-99.7c0-25.1,5.9-49.9,17.4-72.3
+				c8.7-17,19.2-33.1,31.9-47.5c42.2-47.9,103.4-71.2,187.2-71.2v-190C392.8,330.2,327.7,342.6,271,367z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<path class="st1" d="M271,367c-14.8,6.4-29.1,13.6-43,21.8V31.9H0v778.9h228v-98.9c0-25.6,6-50.9,17.7-73.6
+				c8.6-16.7,19-32.6,31.6-46.8c42.2-47.9,103.4-71.2,187.2-71.2v-190C392.8,330.2,327.7,342.6,271,367z"/>
+			<path class="st2" d="M125.9,690.8c31.4-127.9,116.8-265.6,338.5-265.6"/>
+			<line class="st2" x1="117.5" y1="0" x2="117.5" y2="892.4"/>
+			<rect x="89.2" y="623.1" class="st1" width="67" height="77.6"/>
+			<path class="st3" d="M114,655.8v35h9c0,0,3-18,11.3-31.5l-7.3-3.5c-1.6,2.6-3,5.4-4,8.3v-8.3H114z"/>
+		</g>
+	</g>
+</g>
+</svg>

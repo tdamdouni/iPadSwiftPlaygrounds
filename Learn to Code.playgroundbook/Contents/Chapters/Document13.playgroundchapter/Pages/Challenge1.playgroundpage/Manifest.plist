@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Connect and Solve</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>You&apos;ll need to make multiple [instances](glossary://instance) of the `Block` [type](glossary://type), and place them in locations that will enable you to solve the level.</string>
+		</dict>
+	</array>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PosterReference</key>
+	<string>LiveViewPoster.jpg</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+</dict>
+</plist>

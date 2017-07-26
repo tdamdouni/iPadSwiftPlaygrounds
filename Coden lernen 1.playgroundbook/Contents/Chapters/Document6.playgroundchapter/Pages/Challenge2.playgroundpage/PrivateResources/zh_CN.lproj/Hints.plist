@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>想想你目前学过的所有工具：[函数](glossary://function)、[`for` 循环](glossary://for%20loop)、[`while` 循环](glossary://while%20loop)、[条件代码](glossary://conditional%20code)和[运算符](glossary://logical%20operator)。你如何使用这些现有工具来通过本关？</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

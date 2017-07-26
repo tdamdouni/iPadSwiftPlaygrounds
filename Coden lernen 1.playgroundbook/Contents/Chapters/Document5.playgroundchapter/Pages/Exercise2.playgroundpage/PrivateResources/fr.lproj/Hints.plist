@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Commence par ajouter une instruction `if` pour vérifier si ton personnage se trouve sur une gemme. Touche ensuite &amp;&amp; dans la barre de raccourcis pour ajouter une condition qui vérifie si ton personnage est bloqué sur sa gauche.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

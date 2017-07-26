@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>ステージ内のすべての宝石を集めて、取った宝石の数を記録します。宝石を1つ取るごとに、`gemCounter`（宝石カウンター）の値を1つ増やしましょう。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

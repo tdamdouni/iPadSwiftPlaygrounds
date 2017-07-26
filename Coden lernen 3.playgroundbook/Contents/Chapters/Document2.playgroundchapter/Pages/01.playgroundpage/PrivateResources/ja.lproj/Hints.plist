@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+グラフィックを作成するために使うイメージをタップして、別のイメージを選びます。カエルやエイリアン、気さくなモンスターでも試してみてください 👾。
+	</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### あなたは🌟なんですか?
+
+指をドラッグする代わりに、シーンのいろいろな場所をタップしてみてください。タップするたびに新しいグラフィックが追加されますよね。これは、タップするたびに1つのタッチイベントが起きて、`addImage()`（イメージを追加）が1回だけ呼び出されるからです。
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

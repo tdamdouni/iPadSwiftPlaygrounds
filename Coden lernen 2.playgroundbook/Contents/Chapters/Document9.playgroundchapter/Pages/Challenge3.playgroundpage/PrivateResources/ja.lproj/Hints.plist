@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>集めた宝石の数を追跡して、`totalGems`（宝石の合計数）[定数](glossary://constant)と比較してコードの実行をいつやめるかを判断する、[変数](glossary://variable)を[宣言](glossary://declaration)しましょう。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

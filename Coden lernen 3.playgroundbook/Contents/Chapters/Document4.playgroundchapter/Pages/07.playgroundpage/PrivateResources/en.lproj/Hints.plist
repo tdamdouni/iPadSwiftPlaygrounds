@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+If you’re having trouble tapping the UFFs, increase their orbit period in `addFructoid` so they move more slowly.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+When the `scale` value of the touched graphic goes below a certain level (for example, 0.6), destroy the graphic using `graphic.moveAndZap(to: blackHolePosition)`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Add code here.`\
+`graphic.scale -= 0.5`\
+`graphic.alpha -= 0.25`\
+`if graphic.scale &lt; 0.6 {`\
+`   graphic.moveAndZap(to: blackHolePosition)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Looks like you’ve earned your UFF Squisher badge!
+
+**Challenge:** Try making some fruits harder to destroy. A fructoid graphic is created with an emoji, so you can just compare its `text` property like this: `if graphic.text == "🍏"`. If you reduce the `scale` and `alpha` values by less, you’ll need more touches to zap the fruit.
+
+On the [**next page**](@next), you’ll learn how to use a single button to squish all the UFFs at the same time!
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

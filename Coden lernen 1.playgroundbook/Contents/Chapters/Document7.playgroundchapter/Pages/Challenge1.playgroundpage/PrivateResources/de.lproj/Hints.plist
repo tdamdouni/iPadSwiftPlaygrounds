@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Suche zunächst nach einem Muster im Rätsel. Wenn du es gefunden hast, überlege, mit welchen Regeln und Anleitungen du die einzelnen Teile des Musters lösen kannst. Wenn du einen Ansatz gefunden hast, schreibe deinen Code.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Du merkst, dass dich der Pfad immer nach rechts führt, wenn es Edelsteine gibt. Wenn es Schalter gibt, führt er dich nach links. Nutze dieses Muster, um deinen Algorithmus zu erstellen.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

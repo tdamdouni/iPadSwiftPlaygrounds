@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>cryptography</key>
+		<dict>
+			<key>Definition</key>
+			<string>The practice of encrypting and decrypting messages written in secret code.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Out%20of%20the%20Storm</string>
+				<key>Title</key>
+				<string>Out of the Storm</string>
+			</dict>
+		</dict>
+		<key>transposition cipher</key>
+		<dict>
+			<key>Definition</key>
+			<string>A cipher that’s encrypted by mixing up or moving all of the letters of the original message without changing them.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>The%20Discovery</string>
+				<key>Title</key>
+				<string>The Discovery</string>
+			</dict>
+		</dict>
+		<key>steganography</key>
+		<dict>
+			<key>Definition</key>
+			<string>The practice of concealing secret text or images within nonsecret text or images.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>The%20Discovery</string>
+				<key>Title</key>
+				<string>The Discovery</string>
+			</dict>
+		</dict>
+		<key>substitution cipher</key>
+		<dict>
+			<key>Definition</key>
+			<string>A cipher that’s encrypted by substituting a different letter for each original letter.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>The%20Discovery</string>
+				<key>Title</key>
+				<string>The Discovery</string>
+			</dict>
+		</dict>
+		<key>cipher</key>
+		<dict>
+			<key>Definition</key>
+			<string>A message that has been encrypted to hide its meaning.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Cracking%20the%20Code</string>
+				<key>Title</key>
+				<string>Cracking the Code</string>
+			</dict>
+		</dict>
+		<key>ciphertext</key>
+		<dict>
+			<key>Definition</key>
+			<string>A message or plaintext after it&apos;s been encrypted.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Shifting%20Practice</string>
+				<key>Title</key>
+				<string>Shifting Practice</string>
+			</dict>
+		</dict>
+		<key>encryption</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of concealing a message or plaintext so it’s no longer easily readable.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Shifting%20Practice</string>
+				<key>Title</key>
+				<string>Shifting Practice</string>
+			</dict>
+		</dict>
+		<key>decryption</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of converting a ciphertext to its original plaintext or message.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Shifting%20Practice</string>
+				<key>Title</key>
+				<string>Shifting Practice</string>
+			</dict>
+		</dict>
+		<key>brute force</key>
+		<dict>
+			<key>Definition</key>
+			<string>A decryption system that uses every possible option to break an encryption scheme.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Cracking%20the%20Code</string>
+				<key>Title</key>
+				<string>Cracking the Code</string>
+			</dict>
+		</dict>
+		<key>attack</key>
+		<dict>
+			<key>Definition</key>
+			<string>A method used to break an encryption scheme.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Cracking%20the%20Code</string>
+				<key>Title</key>
+				<string>Cracking the Code</string>
+			</dict>
+		</dict>
+		<key>shift</key>
+		<dict>
+			<key>Definition</key>
+			<string>The number of letters you must move forward or backward through the alphabet to reach the encrypted or decrypted text.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>The%20Discovery</string>
+				<key>Title</key>
+				<string>The Discovery</string>
+			</dict>
+		</dict>
+		<key>argument</key>
+		<dict>
+			<key>Definition</key>
+			<string>An input value passed into a function to customize its behavior. For example, in the function call `move(distance: 3)`, `3` is an argument that specifies how many spaces to move.
+            </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Cracking%20the%20Code</string>
+				<key>Title</key>
+				<string>Cracking the Code</string>
+			</dict>
+		</dict>
+        <key>call</key>
+        <dict>
+            <key>Definition</key>
+            <string>To tell code to run a function. For example, calling the `moveForward()` function in your code tells the application to perform the actions defined in that function.</string>
+            <key>FirstUse</key>
+            <dict>
+                <key>PageReference</key>
+                <string></string>
+                <key>Title</key>
+                <string></string>
+            </dict>
+        </dict>
+	</dict>
+</dict>
+</plist>

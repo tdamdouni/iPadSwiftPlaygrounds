@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Crée une instance `Tool` en lui donnant un nom et une icône d’Emoji.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Définis la propriété `onFingerMoved` de l’outil sur le nom complet d’une fonction du gestionnaire d’événements « doigt déplacé ».
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Définis la propriété `onGraphicTouched` de l’outil sur le nom complet d’une fonction du gestionnaire d’événements « graphisme touché ».
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Bien joué !
+
+**Souviens-toi** de ces propriétés d’outils :
+
+* `onFingerMoved` : prend une fonction de gestionnaire d’événements “finger moved” avec un paramètre`Touch`.
+
+* `onGraphicTouched`: prend une fonction de gestionnaire d’événements “graphic touched” avec un paramètre `Graphic`.
+
+À la [**page suivante**](@next), tu découvriras comment modifier des graphismes quand tu les touches.
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

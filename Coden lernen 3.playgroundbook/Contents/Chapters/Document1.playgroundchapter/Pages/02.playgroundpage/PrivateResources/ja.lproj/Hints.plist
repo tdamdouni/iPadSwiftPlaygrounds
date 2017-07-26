@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+背景イメージは利用できるイメージやフォトライブラリから選ぶことができます。カメラを使って背景用の写真を撮ることもできます!
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### きれいなシーンですね!
+
+背景イメージが背景色を覆い隠していますね。でも、 **ブルー（Blu）** のような透明な部分のあるイメージを選べば、イメージの透明な部分から背景色が透けて見えますよ。シーンの背景色を選ぶときは、このことを覚えておいてください。
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

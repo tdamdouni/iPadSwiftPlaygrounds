@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>ループを2つ使いましょう。1つ目の[外側のループ](glossary://outer%20loop)は、行き止まりでない間、繰り返します。2つ目の[内側のループ](glossary://inner%20loop)では、宝石の上にいない間、1マスずつ進みます。外側のループによって、内側のループが繰り返されます。つまり、内側の`while`ループは、外側のループの終了条件が当てはまるまで、繰り返し実行されます。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

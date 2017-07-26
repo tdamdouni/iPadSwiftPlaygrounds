@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+记住场景为正方形，它从左下方的 `Point(x: -500, y: -500)` 延伸到右上方的 `Point(x: 500, y: 500)`。
+</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+在一张纸上描绘出宇宙并标记原点 (0, 0)。然后标记你认为是星系中心的位置，并算出它的大致坐标。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+星系位于场景的右上区域，因此它的坐标将类似于 (x, y)。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 你明白了！
+
+每次要在场景上放置新图形时，先创建一个 `Graphic` 类型的实例，然后调用场景的 `place()` 方法，传入 `Graphic` 实例和 `Point` 值。
+
+[**下一页**](@next)
+            </string>
+		</dict>
+	</dict>
+</dict>
+</plist>

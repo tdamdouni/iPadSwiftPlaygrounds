@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array/>
+	<key>solution</key>
+	<string>
+`for graphic in graphics {`\
+`   squishGraphic(graphic: graphic)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Sehr gute Arbeit!
+
+Die Szene kann eine Taste haben, die du benennen kannst; du kannst dafür deine eigene Ereignishandler-Funktion „button tap“ schreiben. Mit dieser Taste kannst du viele nützliche Dinge machen!
+
+[**Nächste Seite**](@next)
+  	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

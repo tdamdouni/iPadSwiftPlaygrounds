@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>`totalGems` 表示关卡中将生成的宝石总数。使用此[常量](glossary://constant)以及记录宝石数量的[变量](glossary://variable)来确定何时停止收集宝石。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

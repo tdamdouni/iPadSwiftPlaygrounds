@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+If you’re having trouble tapping the UFFs, increase their orbit period in `addFructoid` so they move more slowly.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+When the `scale` value of the touched graphic goes below a certain level (for example, 0.6), destroy the graphic using `graphic.moveAndZap(to: blackHole.position, duration: 0.25)`.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Removing a Graphic</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

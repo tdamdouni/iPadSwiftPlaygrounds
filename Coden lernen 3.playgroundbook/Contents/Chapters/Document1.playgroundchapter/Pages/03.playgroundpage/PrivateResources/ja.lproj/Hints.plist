@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+x軸とy軸を紙に描いてみると、座標を理解しやすくなります。xは横軸、yは縦軸で、中心は(0, 0)です。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+4つのそれぞれの空間では、座標のx値とy値の正負の組み合わせが決まっています。右上: (+, +)、右下: (+, -)、左下: (-, -)、左上: (-, +)という組み合わせです。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### よくできました!
+
+ シーンに10個のオブジェクトを配置しなければならないとしたら、このコードはどうなりますか? 30個ならどうでしょう? コードをたくさん繰り返さないといけないですよね。このようなコードの繰り返しを見たら、「もっといい方法はないの?」と自分に問いかけてみてください。
+ 
+ **考えよう:** 配列を使って、これをもっと効率的に行う方法がありますか?
+
+ [**次のページ*](@next)で解明してください。
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

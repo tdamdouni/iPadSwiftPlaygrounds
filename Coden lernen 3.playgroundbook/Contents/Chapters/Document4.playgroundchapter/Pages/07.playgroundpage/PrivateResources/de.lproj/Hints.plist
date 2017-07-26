@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Wenn du Probleme hast, die UFFs anzutippen, erhöhe die Umlaufzeit bei `addFructoid`, damit sie sich langsamer bewegen.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Wenn der Wert `scale` der berührten Grafik einen bestimmten Wert unterschreitet (zum Beispiel 0.6), zerstöre die Grafik mittels `graphic.moveAndZap(to: blackHolePosition)`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Add code here.`\
+`graphic.scale -= 0.5`\
+`graphic.alpha -= 0.25`\
+`if graphic.scale &lt; 0.6 {`\
+`   graphic.moveAndZap(to: blackHolePosition)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Du hast dir deinen UFF-Quetschorden redlich verdient!
+
+**Herausforderung:** Versuche, ein paar Früchte schwerer zu zerstören zu machen. Eine Fruchtgrafik wird als Emoji erstellt, du kannst also ihre Eigenschaft `text` so vergleichen: `if graphic.text == "🍏"`. Wenn du die Werte `scale` und `alpha` um weniger verringerst, musst du die Früchte öfter berühren, um sie zu zerstören.
+
+Auf der [**nächsten Seite**](@next) erfährst du, wie du mit nur einer Taste alle UFFs gleichzeitig zerquetschen kannst!
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ContentVersion</key>
+	<string>1.0.2</string>
+	<key>Name</key>
+	<string>Learn to Code 1</string>
+	<key>Description</key>
+	<string>Start your path down the road to being an experienced software engineer with Apple&apos;s &quot;Learn to Code&quot; curriculum.</string>
+	<key>ContentIdentifier</key>
+	<string>com.apple.devpubs.LearnToCode1</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>ImageReference</key>
+	<string>Images/LtC1-icon.png</string>
+	<key>Chapters</key>
+	<array>
+		<string>Document1.playgroundchapter</string>
+		<string>Document2.playgroundchapter</string>
+		<string>Document3.playgroundchapter</string>
+		<string>Document4.playgroundchapter</string>
+		<string>Document5.playgroundchapter</string>
+		<string>Document6.playgroundchapter</string>
+		<string>Document7.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

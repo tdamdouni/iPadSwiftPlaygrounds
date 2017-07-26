@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Wenn es **keinen** Edelstein auf der obersten Plattform gibt, startet eine Treppe von dieser Platte aus. Verwende die Bedingung, wenn sich dein Charakter NICHT auf einem Edelstein befindet, um festzulegen, was in diesem Fall passieren soll.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

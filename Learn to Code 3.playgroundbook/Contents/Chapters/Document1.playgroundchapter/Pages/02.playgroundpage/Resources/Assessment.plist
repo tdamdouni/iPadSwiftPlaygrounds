@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+You can choose a background image from the available images or from your photo library. You can even use the camera to take a photo for the background!
+		</string>
+	</array>
+	<key>success</key>
+	<string>
+### What a beautiful scene!
+
+Notice that the background image obscures the background color. However, if you choose an image that has some transparent or see-through parts, like **Blu**, the background color shows through the transparent parts of the image. Keep this in mind when choosing a background for your scene.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

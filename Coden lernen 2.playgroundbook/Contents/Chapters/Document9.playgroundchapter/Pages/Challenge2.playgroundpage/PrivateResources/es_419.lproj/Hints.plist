@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Tómate un momento para examinar el rompecabezas y ver cuál de las habilidades que has aprendido hasta ahora te servirá para resolverlo. Hay varias soluciones posibles, así que intenta con una de tus ideas.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

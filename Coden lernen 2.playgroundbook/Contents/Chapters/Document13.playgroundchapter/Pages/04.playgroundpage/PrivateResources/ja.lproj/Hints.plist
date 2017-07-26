@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>[`if`文](glossary://if%20statement)の条件を変えて、列が`5`より大きいか、行が`4`より小さい座標があるかを調べます。[&amp;&amp;](glossary://logical%20AND%20operator)演算子と[||](glossary://logical%20OR%20operator)演算子の違いを思い出しましょう!</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

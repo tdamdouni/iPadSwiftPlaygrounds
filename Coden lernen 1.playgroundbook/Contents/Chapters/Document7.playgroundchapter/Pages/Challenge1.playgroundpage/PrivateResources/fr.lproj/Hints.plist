@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Commence par rechercher un pattern dans le puzzle. Quand tu en as identifié un, réfléchis aux règles et aux instructions qui permettront d’en résoudre chaque partie. Quand tu trouves une approche, écris ton code.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Vois comme à chaque fois qu’il y a des gemmes, le chemin se déplace vers la droite. Quand il y a des interrupteurs, il se déplace vers la gauche. Utilise ce pattern pour créer ton algorithme.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

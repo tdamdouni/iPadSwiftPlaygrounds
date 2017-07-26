@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Primero, muévete a un espacio en el que necesites girar a la derecha. Luego usa una combinación de los comandos existentes para girar en esa dirección.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Si giras a la izquierda lo suficiente, eventualmente darás la vuelta.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>absolute value</key>
+		<dict>
+			<key>Definition</key>
+			<string>The unsigned value of a number. For example, the absolute value of -12 is 12, and the absolute value of 23.4 is 23.4.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>algorithm</key>
+		<dict>
+			<key>Definition</key>
+			<string>A step-by-step set of instructions or rules for solving a problem. For example, a list of steps used to make a cup of tea can be considered an algorithm.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>append</key>
+		<dict>
+			<key>Definition</key>
+			<string>To add to the end of something. For example, you can append a string to the end of another string, or append an item to an array of items.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Stringing%20Strings%20Together</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>argument</key>
+		<dict>
+			<key>Definition</key>
+			<string>An input value passed into a function to customize its behavior. For example, in the function call `move(distance: 3)`, `3` is an argument that specifies how many spaces to move.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>arithmetic operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `+`, `-`, `*`, or `/`, that performs a basic mathematical operation on one or more numbers. For example, `42 / 7` and `17 - 5` use arithmetic operators.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Placing%20Images</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>A collection that stores an ordered list of items. The same item can appear multiple times in different positions. For example, `[&quot;bird&quot;, &quot;dog&quot;, &quot;cat&quot;, &quot;skunk&quot;, &quot;cat&quot;]` is an array of strings.</string>
+		</dict>
+		<key>assignment</key>
+		<dict>
+			<key>Definition</key>
+			<string>An action that sets the value of a variable or constant.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>assignment operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>The `=` symbol used to set the value of a variable. For example, `greeting = &quot;hello&quot;` sets the value of `greeting` to `&quot;hello&quot;`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>Boolean</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that has a value of either `true` or `false`. For example, `9 &lt; 7` returns a Boolean value of `false` because 9 is not less than 7.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>bounds</key>
+		<dict>
+			<key>Definition</key>
+			<string>In an array, the range of values that an index to the array can have. For example, the array `[17, 42, 95]` can have index values from 0 to 2. Bounds checking is the process of verifying that an index value is within the bounds of an array.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Touch%20Events/Using%20the%20Modulo%20Operator</string>
+				<key>Title</key>
+				<string>Touch Events</string>
+			</dict>
+		</dict>
+		<key>bug</key>
+		<dict>
+			<key>Definition</key>
+			<string>An error in code that prevents the code or application from running as expected. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>call</key>
+		<dict>
+			<key>Definition</key>
+			<string>To tell code to run a function. For example, calling the `moveForward()` function in your code tells the application to perform the actions defined in that function.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>code expression</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Strings%20with%20Expressions</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+			<key>Definition</key>
+			<string>A piece of code that can be evaluated to return a value. For example if `months` is an array containing 12 items, the code expression `months.count - 1` returns the value `11`.</string>
+		</dict>
+		<key>coding</key>
+		<dict>
+			<key>Definition</key>
+			<string>The act of composing commands, code structures, and algorithms to create a computer application.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>collection</key>
+		<dict>
+			<key>Definition</key>
+			<string>A data structure, such as an array or dictionary, used to store multiple pieces of data.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>command</key>
+		<dict>
+			<key>Definition</key>
+			<string>Code that tells an application to perform a specific action. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>comparison operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `==`, `!=`, `&lt;`, `&gt;`, `&lt;=`, or `&gt;=`, used to compare two values. A comparison operator can be used in a condition of an if statement or while loop to return a Boolean value indicating whether a comparison is `true`. For example, `6 &gt; 8` compares `6` with `8` and returns `false`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>composition</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of combining small parts of an application to solve a larger problem. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>compound assignment operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>An operator that combines assignment (setting the value of a variable) with another operation, such as addition or subtraction. For example, if the current value of `a` is `1`, using `a += 3` adds `3` to `1` and assigns the result to `a`, so that the value of `a` is now `4`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>conditional code</key>
+		<dict>
+			<key>Definition</key>
+			<string>Code that runs only when specific conditions are met. For example, if statements and while loops contain conditional code that runs only if or while a condition is true. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>constant</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named container that stores a value that can’t be changed.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Speaking%20a%20String</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>coordinates</key>
+		<dict>
+			<key>Definition</key>
+			<string>A set of numbers that uniquely determine a position in a space. For example, (100, -200) are coordinates for a point in a 2D space, where the x coordinate is 100 and the y coordinate is -200.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Coordinates%20and%20Graphics</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+		</dict>
+		<key>data</key>
+		<dict>
+			<key>Definition</key>
+			<string>Information that’s processed or stored by a computer and is distinct from the code that acts upon it.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Sentence%20Soup</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>debug</key>
+		<dict>
+			<key>Definition</key>
+			<string>To find and fix errors in code that prevent an application from running correctly. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>declaration</key>
+		<dict>
+			<key>Definition</key>
+			<string>A piece of code that creates something new in your application, such as a function, variable, or custom type. For example, `let planet = &quot;Earth&quot;` declares a new constant, `planet`, and gives it a value of `&quot;Earth&quot;`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>decomposition</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of breaking a large problem into smaller, more manageable pieces. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>decrement</key>
+		<dict>
+			<key>Definition</key>
+			<string>To decrease a number by an integer value, often 1.</string>
+		</dict>
+		<key>define</key>
+		<dict>
+			<key>Definition</key>
+			<string>To provide the explicit value or behavior of a newly created piece of code, such as a function, variable, or custom type. For example, you define a function by providing a set of commands within the function to tell it what to do.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>dot notation</key>
+		<dict>
+			<key>Definition</key>
+			<string>A form of syntax used to access the properties or call the methods of an instance. For example, `expert.toggleSwitch()` calls the `toggleSwitch()` method on the instance `expert`. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>Double</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that stores numbers that have a fractional component; for example, 3.14.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Elliptical%20Orbits</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+		</dict>
+		<key>efficiency</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+			<key>Definition</key>
+			<string>A measurement of how good a piece of code is at executing its intended purpose quickly, while using as few resources—such as memory or power—as possible.</string>
+		</dict>
+		<key>else block</key>
+		<dict>
+			<key>Definition</key>
+			<string>The last block of code in an if statement. The else block runs if all conditions in the if statement are false. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>else if block</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code in an if statement, used to check a condition that isn’t checked by the if block or any other else if blocks.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>enumeration</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Cosmic%20Bus</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+			<key>Definition</key>
+			<string>A data type, often abbreviated as enum, consisting of a defined set of named values that are related in some way. For example, a `Continents` enumeration would have values such as `africa` and `asia`.</string>
+		</dict>
+		<key>event</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Touch%20Events/The%20Image%20Tool</string>
+				<key>Title</key>
+				<string>Touch Events</string>
+			</dict>
+			<key>Definition</key>
+			<string>An action that can be detected by a computer application. Input, such as tapping a button or rotating the screen, triggers an event.</string>
+		</dict>
+		<key>event handler</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Event%20Handlers/Creating%20More%20Tools</string>
+				<key>Title</key>
+				<string>Event Handlers</string>
+			</dict>
+			<key>Definition</key>
+			<string>A function that’s called after an event happens, to handle the event.</string>
+		</dict>
+		<key>filtering</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+			<key>Definition</key>
+			<string>Processing data in a collection or data structure to produce a new set of data. </string>
+		</dict>
+		<key>font</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Cosmic%20Bus</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+			<key>Definition</key>
+			<string>A set of text characters in a specific design style, weight and size. A font’s design style is known as its *typeface*, and variations of this design form the typeface *family*. For example, HelveticaNeue is a typeface, and 10-point HelveticaNeue-Bold is a font.</string>
+		</dict>
+		<key>for loop</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Placing%20an%20Array%20of%20Images</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>A block of repeated code that runs a certain number of times. 
+</string>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named set of commands that can be run whenever needed.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>full function name</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Event%20Handlers/Creating%20a%20Tool</string>
+				<key>Title</key>
+				<string>Event Handlers</string>
+			</dict>
+			<key>Definition</key>
+			<string>The full name of a function, including the names of its parameters separated by colons (`:`); for example, `move(to:duration:)`.
+</string>
+		</dict>
+		<key>increment</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Touch%20Events/Iterating%20Through%20an%20Array</string>
+				<key>Title</key>
+				<string>Touch Events</string>
+			</dict>
+			<key>Definition</key>
+			<string>Increase a number by an integer value, often by 1.</string>
+		</dict>
+		<key>if block</key>
+		<dict>
+			<key>Definition</key>
+			<string>The first block of code in an if statement. The if block runs if the condition in the if statement is true. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>if statement</key>
+		<dict>
+			<key>Definition</key>
+			<string>A  code structure used to run code based on the value of one or more conditions. The first block of code in an if statement is the if block. An if statement might also contain other blocks that provide additional checks. For example, an else block runs if all conditions in the if statement are false. An else if block checks a condition that isn’t checked by the if block or any other else if blocks.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>index</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Changing%20an%20Array</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>A number that represents the position of an item in an array. </string>
+		</dict>
+		<key>initialization</key>
+		<dict>
+			<key>Definition</key>
+			<string>The act of creating a new instance of a type, which includes setting initial values for any properties of the type. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>inner loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating block of code (a loop) that’s nested inside another (outer) loop.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>instance</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Coordinates%20and%20Graphics</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>A value of a particular type. For example, in `let greenPortal = Portal()`, `greenPortal` is an instance of type `Portal`.
+</string>
+		</dict>
+		<key>Int</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Elliptical%20Orbits</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>A type that stores an integer—a number that has no decimal, such as 10 or –42. 
+</string>
+		</dict>
+		<key>iteration</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Placing%20an%20Array%20of%20Images</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>The act of repeating a process, such as performing the same action on each item in a collection.</string>
+		</dict>
+		<key>logical operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `&amp;&amp;`, `||`, or `!`, that modifies or combines the Boolean logic values `true` and `false`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>logical AND operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (`&amp;&amp;`) that combines two Boolean values where both values must be `true` for the overall code to be `true`. For example, `a &amp;&amp; b` is `true` only when both `a` and `b` are `true`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>logical NOT operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (`!`) that inverts the Boolean value of a piece of code. For example, if `a` is `true`, then `!a` is `false`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>logical OR operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (`||`) that combines two Boolean values where only one value must be true for the overall code to be true. For example, `a || b` is `true` when either `a` or `b` is `true` (or when both are `true`). 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code that’s repeated a certain number of times (for example, a for loop) or until a condition is met (for example, a while loop). 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>method</key>
+		<dict>
+			<key>Definition</key>
+			<string>A function, or set of commands, that’s defined inside a type.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>memory</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+			<key>Definition</key>
+			<string>The part of a computer that stores the code for an application and the data that it uses, either temporarily or permanently.</string>
+		</dict>
+		<key>modulo operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (`%`) that returns the remainder after one number is divided by another. For example, `17 % 5` returns `2`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Touch%20Events/Using%20the%20Modulo%20Operator</string>
+				<key>Title</key>
+				<string>Touch Events</string>
+			</dict>
+		</dict>
+		<key>nest</key>
+		<dict>
+			<key>Definition</key>
+			<string>To place one repeating block of code, such as a loop, inside another.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `+`, `-`, or `&amp;&amp;`, that represents an action on one or more values. For example, in `1 + 2`, the addition operator (`+`) adds the numbers `1` and `2`. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>outer loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating block of code (a loop) that contains another (inner) loop.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>out of bounds error</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Touch%20Events/Iterating%20Through%20an%20Array</string>
+				<key>Title</key>
+				<string>Touch Events</string>
+			</dict>
+			<key>Definition</key>
+			<string>An error caused by trying to access an array using an index that’s outside of that array’s bounds. For example, the index 2 would cause an out of bounds error if used with the following array: `[17, 42]`.</string>
+		</dict>
+		<key>parameter</key>
+		<dict>
+			<key>Definition</key>
+			<string>The name of an input value to a function, used in the definition of the function. For example, in the function `move(distance: Int)`, `distance` is a parameter that takes a value of type `Int`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>pattern</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating set of circumstances or data. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>property</key>
+		<dict>
+			<key>Definition</key>
+			<string>A variable (a named container that stores a value) defined inside a type.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>pseudocode</key>
+		<dict>
+			<key>Definition</key>
+			<string>A human-readable description of an algorithm, usually written using a mix of everyday language and code. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>reusability</key>
+		<dict>
+			<key>Definition</key>
+			<string>A characteristic of code that allows it to be used in different situations within an application. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>speech synthesis</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Speaking%20a%20String</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+			<key>Definition</key>
+			<string>Computer generation of sound that resembles human speech, usually generated from text. 
+</string>
+		</dict>
+		<key>state</key>
+		<dict>
+			<key>Definition</key>
+			<string>The stored information of a variable, application, or system at a given time.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>statement</key>
+		<dict>
+			<key>Definition</key>
+			<string>A structure, such as a loop or if statement, that organizes code in an application.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>String</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that stores a series of characters, such as `&quot;hello, world&quot;` or `&quot;dancing kittens&quot;`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Creating%20and%20Writing%20a%20String</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>string component</key>
+		<dict>
+			<key>Definition</key>
+			<string>A part—or substring—of a string, after the string is split into parts by a separator. For example, if the string `&quot;dog+cat+fish&quot;` is split by the separator `&quot;+&quot;`, the resulting components are the strings `&quot;dog&quot;`, `&quot;cat&quot;`, and `&quot;fish&quot;`.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>string concatenation</key>
+		<dict>
+			<key>Definition</key>
+			<string>The operation of joining strings by adding one string to the end of another. For example, the concatenation of `&quot;foot&quot;` and `&quot;ball&quot;` is `&quot;football&quot;`.
+				</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Stringing%20Strings%20Together</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>string interpolation</key>
+		<dict>
+			<key>Definition</key>
+			<string>
+The use of constants, variables, or code expressions within a longer string, to be substituted with their current values when the string is evaluated. For example, in the string `&quot;Katy ate a \(fruit).&quot;`, if `fruit` is a variable with the value `&quot;peach&quot;`, then `\(fruit)` is replaced by `&quot;peach&quot;` when the string is evaluated, becoming: `&quot;Katy ate a peach.&quot;`
+				</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Strings%20with%20Expressions</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>Swift</key>
+		<dict>
+			<key>Definition</key>
+			<string>Apple’s programming language, used for writing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>syntax</key>
+		<dict>
+			<key>Definition</key>
+			<string>The rules for writing code that computers can understand and run.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Coordinates/Coordinates%20and%20Graphics</string>
+				<key>Title</key>
+				<string>Coordinates</string>
+			</dict>
+			<key>Definition</key>
+			<string>A named grouping of properties (the features) and methods (the behaviors) of a kind of data.
+</string>
+		</dict>
+		<key>typography</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Cosmic%20Bus</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+			<key>Definition</key>
+			<string>The art and technique of arranging type to make written language legible, readable, and appealing when displayed.</string>
+		</dict>
+		<key>user input</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+			<key>Definition</key>
+			<string>Information that an application gets from interaction with a user, such as from a user tapping or swiping the screen, entering text with the keyboard, or speaking into the microphone. 
+</string>
+		</dict>
+		<key>variable</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named container that stores a value that can be changed. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Strings/Stringing%20Strings%20Together</string>
+				<key>Title</key>
+				<string>Strings</string>
+			</dict>
+		</dict>
+		<key>wireframe</key>
+		<dict>
+			<key>Definition</key>
+			<string>An outline of an item, such as a gem, switch, or block, in the puzzle world. A wireframe is used to indicate the possibility that the item could randomly appear each time the puzzle is run.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+		<key>while loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code that runs for as long as a given condition is `true`. When the condition changes to `false`, the loop stops running. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string></string>
+				<key>Title</key>
+				<string></string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

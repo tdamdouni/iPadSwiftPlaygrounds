@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>通过本关的方法有很多种。运用构造世界的技能，采用你认为最佳的通关方案来添加砖块、传送门和阶梯。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

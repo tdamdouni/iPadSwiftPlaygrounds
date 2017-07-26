@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Tout d’abord, tu dois définir une fonction `turnLock` pour qu’elle utilise le [paramètre](glossary://parameter) `up` pour dire à l’expert dans quel sens tourner la serrure. Utilise ensuite `numberOfTimes` pour dire combien de fois tourner la serrure.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

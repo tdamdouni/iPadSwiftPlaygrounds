@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+If you set the touched graphic’s `alpha` value to something like 0.25, the graphic will be almost transparent.
+		</string>
+		<string>
+Use an `if` statement with the `&lt;` operator to check if `graphic.alpha` is less than 1.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Modify alpha.`\
+`if graphic.alpha &lt; 1.0 {`\
+`   graphic.alpha = 1.0`\
+`} else {`\
+`   graphic.alpha = 0.25`\
+`}`
+	</string>
+	<key>success</key>
+	<string>
+### Well done!
+
+On the [**next page**](@next), you’ll have some fun squishing graphics!
+			</string>
+</dict>
+</plist>

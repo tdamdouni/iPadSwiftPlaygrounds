@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
+	<title>algorithms</title>
+	<style>
+		html {
+			height:100%;
+		}
+		body {
+			background-color:#97C4FF;
+			margin:0;
+			height:100%;
+		}
+	</style>
+	<!-- copy these lines to your document head: -->
+
+	<meta name="viewport" content="user-scalable=no, width=1024" />
+	
+	
+	
+	
+	
+	
+	
+	
+	<link rel="stylesheet" type="text/css" href="algorithms.hyperesources/axstyles.css">
+	<script type="text/javascript" src="algorithms.hyperesources/axworkarounds.js"></script>
+
+	<!-- end copy -->
+  </head>
+  <body>
+	<!-- copy these lines to your document: -->
+
+	<div id="algorithms_hype_container" style="margin:auto;position:relative;width:100%;height:100%;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="algorithms.hyperesources/algorithms_hype_generated_script.js?81612"></script>
+	</div>
+
+	<!-- end copy -->
+	
+
+
+	<!-- text content for search engines: -->
+
+	<div style="display:none" aria-hidden=true>
+
+		<div>アルゴリズム
+</div>
+		<div></div>
+		<div>まず、駐車場に着くまで車を動かすアルゴリズムを書きましょう。</div>
+		<div>アルゴリズムとは、問題を解決するために使われる一連のルールや指示のことです。</div>
+		<div>1/9</div>
+		<div>たとえば、道順を教えてくれるAppでは、行きたいところまでの一番短い道筋を調べるためにアルゴリズムが使われます。
+</div>
+		<div>渋滞を避けるには:
+</div>
+		<div>移動時間が一番短い道順を選びます。
+</div>
+		<div>8/9</div>
+		<div>3/9</div>
+		<div>おしい。まだ手直しする必要があります。</div>
+		<div>距離と平均速度を比べます。
+</div>
+		<div>現在の交通状況を比べます。
+</div>
+		<div>今まで書いてきたたくさんのコードは、問題を解決するための指示でした。ずっとアルゴリズムを書いてきたわけです。</div>
+		<div>車は右に曲がった後、さらに進んで建物を周る必要があります。</div>
+		<div>5/9</div>
+		<div>今度は、駐車場を見つけるために建物を周って車を動かす必要があると仮定します。
+</div>
+		<div>今回新しく覚える技は、コードをさまざまな状況で使えるように書いたり直したりすることです。</div>
+		<div>建物を周って車を動かすために、どのような指示やルールが使えますか?
+</div>
+		<div>残念。アルゴリズムは建物の周りを走るように指示していません。</div>
+		<div>2/9</div>
+		<div>建物の周りを走るため、右側が行き止まりになっているかどうかを繰り返し確認するルールを作ります。</div>
+		<div>6/9</div>
+		<div>while !isInParkingSpace {   if isBlockedRight {
+      driveForward()
+   } else {
+      turnRight()
+   }
+}</div>
+		<div>一度に1つずつ</div>
+		<div>4/9</div>
+		<div>while !isInParkingSpace {   driveForward()
+}</div>
+		<div>車が右に行けるときは、建物の端に着いたということなので、右に曲がります。</div>
+		<div>次へ</div>
+		<div>7/9</div>
+		<div>while !isInParkingSpace {   if isBlockedRight {
+      driveForward()
+   } else {
+      turnRight()
+      driveForward()
+   }
+}</div>
+
+	</div>
+
+	<!-- end text content: -->
+
+  </body>
+</html>

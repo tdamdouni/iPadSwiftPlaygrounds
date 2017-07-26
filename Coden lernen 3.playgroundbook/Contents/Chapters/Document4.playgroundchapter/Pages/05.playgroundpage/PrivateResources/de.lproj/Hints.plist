@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Erstelle eine Instanz von `Tool`, gib ihr einen Namen und weis ihr ein Emojisymbol zu.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Stelle die Eigenschaft `onFingerMoved` auf den vollständigen Namen einer Ereignishandler-Funktion `finger moved` ein.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Stelle die Eigenschaft `onGraphicTouched` auf den vollständigen Namen einer Ereignishandler-Funktion `graphic touched` ein.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Sehr gute Arbeit!
+
+**Merk dir** diese Werkzeugeigenschaften:
+
+* `onFingerMoved`: Nimmt eine Ereignishandler-Funktion `finger moved` mit einem Parameter `Touch` an.
+
+* `onGraphicTouched`: Nimmt eine Ereignishandler-Funktion `graphic touched` mit einem Parameter `Graphic` an.
+
+Auf der [**nächsten Seite**](@next), erfährst du, wie man Grafiken bei Berührung ändert.
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

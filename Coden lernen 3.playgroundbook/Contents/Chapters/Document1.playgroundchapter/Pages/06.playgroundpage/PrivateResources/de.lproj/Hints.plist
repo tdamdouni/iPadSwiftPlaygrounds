@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Versetze die Grafik in eine Umlaufbahn um den Mittelpunkt:\
+`graphic.orbit(x: x, y: y, period: period)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Versuche, `period` auf einen Zufallswert `Double` von 0.5 bis 4.0 zu ändern.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Ausgezeichnet!Du hast die Kunst der Planetenbahnen gemeistert!
+
+**Denk daran:** Der Typ `Double` wird für alle numerischen, nicht ganzen Zahlen verwendet.
+
+[**Nächste Seite**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

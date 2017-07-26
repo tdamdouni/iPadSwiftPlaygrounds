@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+UFFをタップするのが難しい場合は、もっとゆっくり動くように、`addFructoid`（UFFを追加）で軌道の周期を長くしてください。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+タッチしたグラフィックの`scale`（大きさ）の値が一定のレベル（たとえば、0.6）を下回ったら、`graphic.moveAndZap(to: blackHolePosition)`を使ってグラフィックを破壊します。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Add code here.`\
+`graphic.scale -= 0.5`\
+`graphic.alpha -= 0.25`\
+`if graphic.scale &lt; 0.6 {`\
+`   graphic.moveAndZap(to: blackHolePosition)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### UFF撃退者バッジを手に入れたようですね!
+
+**課題:** 一部のフルーツを破壊しにくくしてみてください。UFFは絵文字で作られるので、その`text`（テキスト）プロパティを次のように比較できます: `if graphic.text == "🍏"`。`scale`（大きさ）と`alpha`（アルファ）の値を小さくすると、フルーツを破壊するために必要なタッチの数が増えます。
+
+[**次のページ**](@next)では、1つのボタンを使ってすべてのUFFを同時に撃退する方法を学びます!
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

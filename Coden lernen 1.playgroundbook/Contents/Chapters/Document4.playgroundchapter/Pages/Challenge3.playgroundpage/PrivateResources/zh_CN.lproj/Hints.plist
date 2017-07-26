@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>沿着主路，每当到达宝石处，就有一条向右下延伸的阶梯。每当到达关闭的开关处，其左边就有一颗宝石。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

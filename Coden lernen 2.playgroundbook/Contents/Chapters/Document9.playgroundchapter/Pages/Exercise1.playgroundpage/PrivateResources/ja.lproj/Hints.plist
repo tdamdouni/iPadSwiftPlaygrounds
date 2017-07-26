@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、`greenPortal`（緑のワープ）の`isActive`（有効）[プロパティ](glossary://property)を`false`（偽）に設定しましょう。そうしないと、スイッチのマスまで行こうとするたびに、遠くにワープしてしまいますよ。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

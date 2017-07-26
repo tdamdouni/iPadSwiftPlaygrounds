@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>cycloid</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/01.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Übersicht</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Die Kurve, die ein Punkt auf einem Kreis zeichnet, der auf einer geraden Linie rollt.</string>
+				<key>Title</key>
+				<string>Zykloide</string>
+			</dict>
+		</dict>
+		<key>etymology</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/03.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Epizykloiden</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Wissenschaft von der Herkunft der Wörter.</string>
+				<key>Title</key>
+				<string>Etymologie</string>
+			</dict>
+		</dict>
+		<key>subset</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/04.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Hypotrochoiden</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Eine Gruppe von Elementen, die Teil einer größeren Gruppe sind.</string>
+				<key>Title</key>
+				<string>Teilmenge</string>
+			</dict>
+		</dict>
+		<key>trochoid</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/04.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Hypotrochoiden</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Die Kurve, die ein Punkt auf einem Kreis zeichnet, der auf einer anderen Fläche rollt, die flach oder gekrümmt sein kann.</string>
+				<key>Title</key>
+				<string>Trochoide</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

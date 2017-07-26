@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>[Declare](glossary://declaration) a [variable](glossary://variable) to track how many gems you pick up, and compare it to the `totalGems` [constant](glossary://constant) to determine when to stop.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

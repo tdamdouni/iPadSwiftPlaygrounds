@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Essaie d’utiliser un [pseudo-code](glossary://pseudocode) pour planifier la façon dont tu souhaites résoudre ce puzzle. Réfléchis aux compétences que tu peux utiliser, et trouve un point de départ. Quand tu as trouvé une stratégie, essaie d’écrire et de tester ton code.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

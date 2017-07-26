@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Get the item at `index` from the `lines` array:\
+`let line = lines[index]`
+
+Get the item at `index` from the `illustrations` array:\
+`let emoji = illustrations[index]`
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`let line = lines[index]`\
+`let emoji = illustrations[index]`\
+\
+`scene.write(emoji)`\
+\
+`speak(line)`
+	</string>
+	<key>success</key>
+	<string>
+### O frabjous day! Callooh! Callay!
+
+**Challenge:** Write your own nonsense poem (replacing `lines`), and illustrate it with emoji (replacing `illustrations`).
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

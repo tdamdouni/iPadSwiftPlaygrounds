@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>首先，在 `heights` 数组中添加一组[整数](glossary://Int)值。如果要给数组快速添加更多项目，请尝试轻点中括号并拖到最右边。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

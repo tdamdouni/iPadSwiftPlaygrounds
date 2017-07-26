@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Commence par jeter un œil au puzzle. Le pattern peut sembler un peu plus difficile à identifier de prime abord. Essaie de résoudre une partie du puzzle avant de créer ta boucle.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Male die X- und Y-Achsen auf Papier, um die Koordinaten besser zu finden. Denk daran, dass die horizontale die X-Achse und die vertikale die Y-Achse ist und sich in der Mitte an ihrem Schnittpunkt der Ursprung (0, 0).
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Die Koordinaten in den vier Quadranten haben jeweils eine andere Kombination positiver und negativer Werte für X und Y: oben rechts: (+, +), unten rechts: (+, -), unten links: (-, -) und oben links: (-, +).
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Gute Arbeit!
+
+ Wie würde dein Code aussehen, wenn du 10, oder sogar 30 Objekte in der Szene platzieren sollst?! Sehr viel vom Code wiederholt sich. Jedes Mal, wenn der Code sich so wiederholt, überlege, ob es nicht eine bessere Methode gibt.
+ 
+ **Überlege:** Kannst du das mit einem Array effizienter lösen?
+
+ Die Lösung findest du auf der [**nächsten Seite**](@next).
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

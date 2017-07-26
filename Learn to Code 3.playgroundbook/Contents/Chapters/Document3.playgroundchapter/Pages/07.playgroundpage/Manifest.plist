@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+Try other fonts, such as `bradleyHand`, `markerfelt`, or `zapfino`.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Use the **Move** tool to tweak the positions of your graphics.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+You use the `rotation` property of `Graphic` like this: `quote1.rotation = 30`.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Try splitting up a quote into individual words or phrases so you can position them separately.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Cosmic Bus</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

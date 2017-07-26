@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Even though this puzzle looks different from others you've seen, you can still solve it using the right hand rule. Always follow the right wall of the maze, and your character will eventually reach the gem.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

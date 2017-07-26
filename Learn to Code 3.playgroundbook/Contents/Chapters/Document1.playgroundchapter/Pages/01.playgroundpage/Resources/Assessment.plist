@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Remember that the scene is square, and it stretches from `Point(x: -500, y: -500)` on the bottom left to `Point(x: 500, y: 500)` on the top right.
+</string>
+		<string>
+Sketch the universe on a sheet of paper and mark the origin (0, 0). Then mark where you think the center of the galaxy is, and work out roughly what its coordinates are.
+		</string>
+		<string>
+The galaxy is in the top right quarter of the scene, so its coordinates will be something like (x, y).
+		</string>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<string>
+### You’ve got it!
+
+Any time you want to place a new graphic on the scene, first create an instance of type `Graphic`, then call the scene’s `place()` method, passing in the instance of `Graphic` and a `Point` value.
+
+[**Next Page**](@next)
+            </string>
+</dict>
+</plist>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Obtener la siguiente posición e incrementar `pointIndex`:
+`let position = points[pointIndex]`\
+`pointIndex += 1`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Restablecer `pointIndex` para que se mantenga dentro de los límites del arreglo:
+`if pointIndex == points.count {`\
+`   pointIndex = 0`\
+`}`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Get position.`\
+`let position = points[pointIndex]`\
+`// Increment pointIndex.`\
+`pointIndex += 1`\
+`if pointIndex == points.count {`\
+`   pointIndex = 0`\
+`}`\
+`// Move graphic to position.`\
+`graphic.move(to: position, duration: 1.0)`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Felicidades!
+
+Experimenta con diferentes puntos, funciones y parámetros para obtener distintos patrones.
+
+**Reto:** Los puntos que devuelve una función de patrón se colocan alrededor del centro del escenario. Puedes agregar fácilmente un desplazamiento `x` o `y` a cada punto, colocando el patrón en donde quieras. Intenta a ver si puedes colocar varios patrones en distintos lugares en el escenario.
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

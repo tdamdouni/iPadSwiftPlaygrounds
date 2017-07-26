@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Appelle des [méthodes](glossary://method) sur `world` pour modifier le monde du puzzle, en ajoutant ou en supprimant toutes les parties que tu souhaites changer ! Une fois que tu as ajouté des gemmes et des interrupteurs, utilise ton personnage pour résoudre le puzzle que tu as créé.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

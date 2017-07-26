@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>注意到每四颗宝石如何构成一组完全相同的布局吗？针对其中一组写代码，以便其他各组也同样适用。
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

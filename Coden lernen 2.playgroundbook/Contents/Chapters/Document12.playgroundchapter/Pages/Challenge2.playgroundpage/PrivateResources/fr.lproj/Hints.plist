@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Tu peux résoudre ce puzzle de diverses façons. Fais appel à tes compétences en matière de construction de mondes pour ajouter des blocs, des téléporteurs et des escaliers qui te permettront de terminer ce puzzle de la façon qui te semble la plus efficace.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

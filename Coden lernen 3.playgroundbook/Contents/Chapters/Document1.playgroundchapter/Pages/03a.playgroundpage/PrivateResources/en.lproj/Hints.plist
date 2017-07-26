@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Work out roughly where the center of each caption should be, and create a point for those coordinates using `Point(x:y:)`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`let graphic3 = Graphic(text: caption3)`\
+`scene.place(graphic3, at: Point(x: 250, y: -290))`\
+`let graphic4 = Graphic(text: caption4)`\
+`scene.place(graphic4, at: Point(x: -350, y: -340))`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Well done!
+
+**Idea:** Set the background image to your own photo—maybe a selfie with your friends—and make up some captions to put on it!
+
+[**Next Page**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

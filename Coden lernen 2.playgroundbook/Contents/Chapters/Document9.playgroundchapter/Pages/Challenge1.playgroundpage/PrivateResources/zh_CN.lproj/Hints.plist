@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>首先，使用[伪代码](glossary://pseudocode)设计如何打开和关闭传送门来通关的方案。然后编写代码并进行测试。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

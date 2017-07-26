@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、エキスパートの[インスタンス](glossary://instance)を[初期化](glossary://initialization)しましょう。`Expert`（エキスパート）型のインスタンスを`expert`に[代入](glossary://assignment)します。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Prends une minute pour examiner le puzzle et identifier la compétence que tu as apprise qui permettra de le résoudre le plus efficacement possible. Il existe de nombreuses solutions différentes, donc n’hésite pas à appliquer une de tes idées !</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

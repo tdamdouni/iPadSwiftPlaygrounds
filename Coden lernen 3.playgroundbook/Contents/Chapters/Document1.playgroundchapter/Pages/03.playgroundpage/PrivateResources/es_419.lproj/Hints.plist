@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Haz un bosquejo de los ejes `x` y `y` en papel para ayudarte a descifrar las coordenadas. Recuerda que `x` es el eje horizontal y `y` es el vertical. El punto central es (0, 0).
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Las coordenadas de los cuatro cuadrantes tendrán una combinación diferente de valores `x` y `y` positivos y negativos: superior derecho: (+, +), inferior derecho: (+, -), inferior izquierdo: (-, -) y superior izquierdo: (-, +).
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Buen trabajo!
+
+ ¿Cómo sería tu código si tuvieras que colocar 10 objetos en el escenario? ¿O incluso 30? Observa que el código se repite mucho. Cada vez que veas que el código se repite pregúntate a ti mismo: “¿hay una mejor forma de hacerlo?”.
+ 
+ **Piensa:** ¿hay alguna forma más eficaz de hacer esto usando un arreglo?
+
+ Descúbrelo en la [**siguiente página**](@next).
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

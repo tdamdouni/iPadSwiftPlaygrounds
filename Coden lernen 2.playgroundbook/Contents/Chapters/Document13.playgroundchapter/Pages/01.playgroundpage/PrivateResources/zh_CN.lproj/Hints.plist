@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>给 `for`-`in` 循环中的[变量](glossary://variable)命名时，记住使用**驼峰式大小写**，变量的首字母使用小写。例如，`column`、`currentColumn` 或 `eachColumn` 都能用作变量名称。`Column` 不适用，因为它的首字母为大写。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

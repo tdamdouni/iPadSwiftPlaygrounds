@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Si tu n’arrives pas à toucher les OFNI, augmente leur période d’orbite dans `addFructoid` pour qu’ils se déplacent plus lentement.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Quand la valeur `scale` du graphisme touché arrive en dessous d’un certain niveau (par exemple, 0,6), détruis le graphisme en utilisant `graphic.moveAndZap(to: blackHolePosition)`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Add code here.`\
+`graphic.scale -= 0.5`\
+`graphic.alpha -= 0.25`\
+`if graphic.scale &lt; 0.6 {`\
+`   graphic.moveAndZap(to: blackHolePosition)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### On dirait que tu as gagné ton badge d’écrabouilleur d’OFNI !
+
+**Défi :** Essaie de rendre certains fruits plus durs à écraser. Un graphisme de fruit est créé avec un Emoji, pour que tu puisses comparer sa propriété `text` comme ceci : `if graphic.text == "🍏"`. Si tu réduis les valeurs `scale` et `alpha`, tu devras toucher le fruit plus de fois pour le détruire.
+
+À la [**page suivante**](@next), tu apprendras comment utiliser un seul bouton pour écrabouiller tous les UFNI en même temps !
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

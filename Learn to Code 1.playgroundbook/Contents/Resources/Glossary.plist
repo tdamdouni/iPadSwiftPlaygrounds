@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>algorithm</key>
+		<dict>
+			<key>Definition</key>
+			<string>A step-by-step set of instructions or rules for solving a problem. For example, a list of steps used to make a cup of tea can be considered an algorithm.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Algorithms/The%20Right-Hand%20Rule</string>
+				<key>Title</key>
+				<string>Algorithms</string>
+			</dict>
+		</dict>
+		<key>arithmetic operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `+`, `-`, `*`, or `/`, that performs a basic mathematical operation on one or more numbers. For example,  `42 / 7` and `17 - 5` use arithmetic operators.</string>
+		</dict>
+		<key>argument</key>
+		<dict>
+			<key>Definition</key>
+			<string>An input value passed into a function to customize its behavior. For example, in the function call `move(distance: 3)`, `3` is an argument that specifies how many spaces to move.</string>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>Definition</key>
+			<string>A collection that stores an ordered list of items of the same type. The same item can appear multiple times in different positions. For example, `highScores = [37, 34, 29, 29, 26]` is an array of integers.</string>
+		</dict>
+		<key>array out of bounds error</key>
+		<dict>
+			<key>Definition</key>
+			<string>An error caused by trying to access an array using an index that’s outside of that array&apos;s boundaries. For example, the index `2` is outside of the boundaries of the following array: `[17, 42]`.</string>
+		</dict>
+		<key>assignment</key>
+		<dict>
+			<key>Definition</key>
+			<string>An action that sets the value of a variable or constant.</string>
+		</dict>
+		<key>assignment operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>The `=` symbol used to set the value of a variable. For example, `greeting = “hello”` sets the value of `greeting` to `“hello”`.</string>
+		</dict>
+		<key>Boolean</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that has a value of either `true` or `false`. For example, `9 &lt; 7` returns a Boolean value of `false` because `9` is not less than `7`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Conditional%20Climb</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>bug</key>
+		<dict>
+			<key>Definition</key>
+			<string>An error in code that prevents an application from running as expected. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Commands/Finding%20and%20Fixing%20Bugs</string>
+				<key>Title</key>
+				<string>Commands</string>
+			</dict>
+		</dict>
+		<key>call</key>
+		<dict>
+			<key>Definition</key>
+			<string>To tell a program to run a function. For example, calling the `moveForward()` function in your code tells the program to perform the actions defined in that function.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Creating%20a%20New%20Function</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>coding</key>
+		<dict>
+			<key>Definition</key>
+			<string>The act of composing commands, code structures, and algorithms to create a computer program.
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Commands/Introduction</string>
+				<key>Title</key>
+				<string>Commands</string>
+			</dict>
+		</dict>
+		<key>command</key>
+		<dict>
+			<key>Definition</key>
+			<string>Code that tells an application to perform a specific action. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Commands/Issuing%20Commands</string>
+				<key>Title</key>
+				<string>Commands</string>
+			</dict>
+		</dict>
+		<key>comparison operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `==`, `!=`, `&lt;`, `&gt;`, `&lt;=`, or `&gt;=`, used to compare two values. The comparison operator can be used in a condition of an `if` statement or `while` loop to return a Boolean value indicating whether a comparison is `true`. For example, `6 &gt; 8` compares `6` with `8` and returns `false`.</string>
+		</dict>
+		<key>composition</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of combining small parts of a program to solve a larger problem. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Composing%20a%20New%20Behavior</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>compound assignment operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>An operator that combines assignment (setting the value of a variable) with another operation, such as addition or subtraction. For example, if the current value of `a` is `1`, using `a += 3` adds `3` to `1` and assigns the result to `a`, so that the value of `a` is now `4`.</string>
+		</dict>
+		<key>conditional code</key>
+		<dict>
+			<key>Definition</key>
+			<string>Code that runs only when specific conditions are met. For example, `if` statements and `while` loops contain conditional code that runs only if or while a condition is `true`. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Introduction</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>constant</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named container that stores a value that can’t be changed.</string>
+		</dict>
+		<key>debug</key>
+		<dict>
+			<key>Definition</key>
+			<string>To find and fix errors in code that prevent an application from running correctly. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Commands/Finding%20and%20Fixing%20Bugs</string>
+				<key>Title</key>
+				<string>Commands</string>
+			</dict>
+		</dict>
+		<key>declaration</key>
+		<dict>
+			<key>Definition</key>
+			<string>A piece of code that creates something new in your application, such as a function, variable, or custom type. For example, `let planet = “Earth”` declares a new constant, `planet`, and gives it a value of `&quot;Earth&quot;`.</string>
+		</dict>
+		<key>decomposition</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of breaking a large problem into smaller, more manageable pieces. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Nesting%20Patterns</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>define</key>
+		<dict>
+			<key>Definition</key>
+			<string>To provide the explicit value or behavior of a newly created piece of code, such as a function, variable, or custom type. For example, you define a function by providing a set of commands within the function to tell it what to do.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Creating%20a%20New%20Function</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>dot notation</key>
+		<dict>
+			<key>Definition</key>
+			<string>A form of syntax used to access the properties or call the methods of an instance. For example, `expert.toggleSwitch()` calls the `toggleSwitch()` method on the `expert` instance. </string>
+		</dict>
+		<key>else block</key>
+		<dict>
+			<key>Definition</key>
+			<string>The last block of code in an `if` statement. The `else` block runs if all conditions in the `if` statement are `false`. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Introduction</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>else if block</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code in an `if` statement, used to check a condition that isn’t checked by the `if` block or any other `else if` blocks.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Using%20else%20if</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>enumeration</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that defines a set of unique, but related, values called *enumeration cases*. For example, a `Direction` enumeration defines cases for each cardinal direction: `north`, `south`, `east`, and `west`. When assigning an enumeration to a variable or constant, you always choose just one of its cases; for example, `let compassDirection: Direction = .north`.</string>
+		</dict>
+		<key>for loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of repeated code that runs a certain number of times. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>For%20Loops/Using%20Loops</string>
+				<key>Title</key>
+				<string>For Loops</string>
+			</dict>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named set of commands that can be run whenever needed.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Creating%20a%20New%20Function</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>if block</key>
+		<dict>
+			<key>Definition</key>
+			<string>The first block of code in an `if` statement. The `if` block runs if the condition in the `if` statement is `true`. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Checking%20for%20Switches</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>if statement</key>
+		<dict>
+			<key>Definition</key>
+			<string>A code structure used to run code based on the value of one or more conditions. The first block of code in an `if` statement is the `if` block. An `if` statement might also contain other blocks that provide additional checks, such as an `else` block and `else if` block.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Checking%20for%20Switches</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>index</key>
+		<dict>
+			<key>Definition</key>
+			<string>A number that represents the position of an item in an array. </string>
+		</dict>
+		<key>initialization</key>
+		<dict>
+			<key>Definition</key>
+			<string>The act of creating a new instance of a type, which includes setting initial values for any properties of the type. </string>
+		</dict>
+		<key>inner loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating block of code (a loop) that’s nested inside another (outer) loop.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>While%20Loops/Nesting%20Loops</string>
+				<key>Title</key>
+				<string>While Loops</string>
+			</dict>
+		</dict>
+		<key>instance</key>
+		<dict>
+			<key>Definition</key>
+			<string>A value of a particular type. For example, in `let greenPortal = Portal()`, `greenPortal` is an instance of type `Portal`.</string>
+		</dict>
+		<key>Int</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that stores an integer—a number that has no decimal, such as `10` or `-42`. </string>
+		</dict>
+		<key>iteration</key>
+		<dict>
+			<key>Definition</key>
+			<string>The act of repeating a process, such a performing the same action on each item in an array.</string>
+		</dict>
+		<key>local variable</key>
+		<dict>
+			<key>Definition</key>
+			<string>A variable declared inside of a function, loop, or other statement. Local variables can’t be accessed outside of the code they’re defined in.</string>
+		</dict>
+		<key>logical operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `&amp;&amp;`, `||`, or `!`, that modifies or combines the Boolean logic values `true` and `false`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Logical%20Operators/Using%20the%20NOT%20Operator</string>
+				<key>Title</key>
+				<string>Logical Operators</string>
+			</dict>
+		</dict>
+		<key>logical AND operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (`&amp;&amp;`) that combines two Boolean values where both values must be true for the overall code to be true. For example, `a &amp;&amp; b` is true only when both `a` and `b` are `true`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Logical%20Operators/Checking%20This%20AND%20That</string>
+				<key>Title</key>
+				<string>Logical Operators</string>
+			</dict>
+		</dict>
+		<key>logical NOT operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (`!`) that inverts the Boolean value of a piece of code. For example, if `a` is `true`, then `!a` is `false`.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Logical%20Operators/Using%20the%20NOT%20Operator</string>
+				<key>Title</key>
+				<string>Logical Operators</string>
+			</dict>
+		</dict>
+		<key>logical OR operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol (||) that combines two Boolean values where only one value must be true for the overall code to be true. For example, a || b is true when either a or b is true (or when both are true). 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Logical%20Operators/Checking%20This%20OR%20That</string>
+				<key>Title</key>
+				<string>Logical Operators</string>
+			</dict>
+		</dict>
+		<key>loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code that&apos;s repeated a certain number of times (for example, a `for` loop) or until a condition is met (for example, a `while` loop).</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>For%20Loops/Using%20Loops</string>
+				<key>Title</key>
+				<string>For Loops</string>
+			</dict>
+		</dict>
+		<key>method</key>
+		<dict>
+			<key>Definition</key>
+			<string>A function, or set of commands, that’s defined inside a type.</string>
+		</dict>
+		<key>nest</key>
+		<dict>
+			<key>Definition</key>
+			<string>To place one repeating block of code (or loop) inside another.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>While%20Loops/Nesting%20Loops</string>
+				<key>Title</key>
+				<string>While Loops</string>
+			</dict>
+		</dict>
+		<key>operator</key>
+		<dict>
+			<key>Definition</key>
+			<string>A symbol, such as `+`, `-`, or `&amp;&amp;`, that represents an action on one or more values. For example, in `1 + 2`, the addition operator (`+`) adds the numbers `1` and `2`. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Logical%20Operators/Using%20the%20NOT%20Operator</string>
+				<key>Title</key>
+				<string>Logical Operators</string>
+			</dict>
+		</dict>
+		<key>outer loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating block of code (a loop) that contains another (inner) loop.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>While%20Loops/Nesting%20Loops</string>
+				<key>Title</key>
+				<string>While Loops</string>
+			</dict>
+		</dict>
+		<key>parameter</key>
+		<dict>
+			<key>Definition</key>
+			<string>The name of an input value to a function, used in the definition of the function. For example, in `move(distance: Int)`, `distance` is a parameter that takes a value of type Int.</string>
+		</dict>
+		<key>pattern</key>
+		<dict>
+			<key>Definition</key>
+			<string>A repeating set of circumstances or data. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Collect,%20Toggle,%20Repeat</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>property</key>
+		<dict>
+			<key>Definition</key>
+			<string>A variable (a named container that stores a value) defined inside a type.</string>
+		</dict>
+		<key>pseudocode</key>
+		<dict>
+			<key>Definition</key>
+			<string>A human-readable description of an algorithm, usually written using a mix of everyday language and code. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Algorithms/The%20Right-Hand%20Rule</string>
+				<key>Title</key>
+				<string>Algorithms</string>
+			</dict>
+		</dict>
+		<key>reusability</key>
+		<dict>
+			<key>Definition</key>
+			<string>A characteristic of code that allows it to be used in different situations within a program. 
+</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Functions/Across%20the%20Board</string>
+				<key>Title</key>
+				<string>Functions</string>
+			</dict>
+		</dict>
+		<key>state</key>
+		<dict>
+			<key>Definition</key>
+			<string>The stored information of a variable, program, or system at a given time.</string>
+		</dict>
+		<key>statement</key>
+		<dict>
+			<key>Definition</key>
+			<string>A structure, such as a loop or `if` statement, that organizes code in a program.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Checking%20for%20Switches</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>String</key>
+		<dict>
+			<key>Definition</key>
+			<string>A type that stores a series of characters, such as `“hello, world”` or `“dancing kittens.”`</string>
+		</dict>
+		<key>Swift</key>
+		<dict>
+			<key>Definition</key>
+			<string>Apple’s programming language, used for writing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Commands/Introduction</string>
+				<key>Title</key>
+				<string>Commands</string>
+			</dict>
+		</dict>
+		<key>syntax</key>
+		<dict>
+			<key>Definition</key>
+			<string>The rules for writing code that computers can understand and run.</string>
+		</dict>
+		<key>type</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named grouping of properties (the features) and methods (the behaviors) of a kind of data.</string>
+		</dict>
+		<key>variable</key>
+		<dict>
+			<key>Definition</key>
+			<string>A named container that stores a value that can be changed. </string>
+		</dict>
+		<key>wireframe</key>
+		<dict>
+			<key>Definition</key>
+			<string>An outline of an item, such as a gem, switch, or block, in the puzzle world. A wireframe is used to indicate the possibility that the item could randomly appear each time the puzzle is run.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Conditional%20Code/Looping%20Conditional%20Code</string>
+				<key>Title</key>
+				<string>Conditional Code</string>
+			</dict>
+		</dict>
+		<key>while loop</key>
+		<dict>
+			<key>Definition</key>
+			<string>A block of code that runs for as long as a given condition is `true`. When the condition changes to `false`, the loop stops running. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>While%20Loops/Introduction</string>
+				<key>Title</key>
+				<string>While Loops</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

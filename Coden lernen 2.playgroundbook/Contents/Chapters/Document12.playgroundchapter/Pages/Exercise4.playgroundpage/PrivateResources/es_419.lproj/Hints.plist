@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Llama a los [métodos](glossary://method) en `world`para cambiar el mundo del rompecabezas, agregando o eliminando lo que quieras. Una vez que hayas agregado algunas joyas e interruptores, usa a tu personaje para resolver el rompecabezas que creaste.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

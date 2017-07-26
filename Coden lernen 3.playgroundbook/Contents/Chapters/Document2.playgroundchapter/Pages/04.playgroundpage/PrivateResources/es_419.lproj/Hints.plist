@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Si sigues incrementando `index` por `1`, eventualmente llegará a un punto *más allá* del último elemento en el arreglo `animals`. Si esto pasa, puedes establecer `index` nuevamente a `0` para que esté listo para recorrer el arreglo otra vez en un bucle.
+
+Después de incrementar `index`, verifica si es igual a `animals.count`. Si lo es, establece `index` a `0`, para que apunte de nuevo al primer elemento en el arreglo.
+			</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Buen trabajo!
+
+Recuerda que el índica de un arreglo comienza en 0 (el primer elemento) y termina en la cantidad de elementos que hay el arreglo menos 1 (el último elemento). Así que si el índice es *igual* al contador, el índice ha sobrepasado el final del arreglo y es momento de restablecerlo a 0.
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

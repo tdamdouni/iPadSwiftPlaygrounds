@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>First, [initialize](glossary://initialization) an [instance](glossary://instance) of your expert and an instance of your character. Don't change the constant names, `character` and `expert`, that are provided for you.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

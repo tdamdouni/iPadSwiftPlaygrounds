@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>[Declara](glossary://declaration) una [variable](glossary://variable) para mantenerte al tanto de cuántas joyas recolectas y compara el valor con la [constante](glossary://constant) `totalGems` para saber cuándo detenerte.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

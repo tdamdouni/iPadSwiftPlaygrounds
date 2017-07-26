@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>虽然这一关与你见过的其他关卡有所不同，但仍可以使用右手定则来通关。始终沿着迷宫的右侧墙走，你的角色最终就能到达宝石处。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

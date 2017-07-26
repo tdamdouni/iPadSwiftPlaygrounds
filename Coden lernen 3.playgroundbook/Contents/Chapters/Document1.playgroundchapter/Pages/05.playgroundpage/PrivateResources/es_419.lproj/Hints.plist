@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Recuerda:** el primer elemento en un arreglo está en el índice 0.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Consejo:** al trabajar con [arreglos](glossary://array) e [índices](glossary://index), es útil usar lápiz y papel para hacer un bosquejo del arreglo con sus elementos y sus índices.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Insert and remove items.`\
+`images.insert(rugbyBall, at: 1)`\
+`images.remove(at: 4)`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Súper!
+
+Hacer un seguimiento de los índices del arreglo puede ser difícil. Digamos que eliminas el planeta Billiardball y luego quieres insertar el planeta Rugbyball al final del arreglo, después de Basketball. ¿En qué índice insertarías el planeta Rugbyball?
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

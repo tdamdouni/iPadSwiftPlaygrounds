@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、`heights`（高さ）配列に[Int](glossary://Int)（整数）値をいくつか追加しましょう。配列の角かっこをタップして右にドラッグすると、項目をすばやく追加できますよ。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

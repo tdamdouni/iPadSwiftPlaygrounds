@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Usa `Graphic(image: image)` para crear una instancia `Graphic`.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Mover `position` hacia arriba y a la derecha para el siguiente gráfico:
+`position.x += 75`\
+`position.y += 75`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Create a graphic with image.`\
+`let graphic = Graphic(image: image)`\
+`// Place graphic on the scene.`\
+`scene.place(graphic, at: position)`\
+`// Set position for next graphic.`\
+`position.x += 75`\
+`position.y += 75`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Eres un colocador de planetas estrella!
+
+**Reto:** ¿puedes cambiar el código para colocar la fila de planetas en otro cuadrante, quizá el de la parte superior izquierda?
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

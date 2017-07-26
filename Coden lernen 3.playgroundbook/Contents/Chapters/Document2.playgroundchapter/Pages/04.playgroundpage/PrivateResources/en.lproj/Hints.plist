@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+If you keep incrementing `index` by `1`, it will eventually point *beyond* the last item in the `animals` array. If this happens you can set `index` back to `0`. It’s then ready to loop through the array again.
+
+After incrementing `index`, check if it’s equal to `animals.count`. If it is, set `index` equal to `0`, so that it points back to the first item in the array.
+			</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Well done!
+
+Remember that the index to an array starts at 0—the first item—and goes up to the array’s count minus 1—the last item. So if the index *equals* the count, the index has gone past the end of the array, and it’s time to set the index back to 0.
+
+[**Next Page**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

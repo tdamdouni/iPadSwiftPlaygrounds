@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>你需要先创建 `Block` [类型](glossary://type)的[实例](glossary://instance)，才能放置砖块。请使用以下代码：`let newBlock = Block()`。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Create a `Graphic` instance using `Graphic(image: image)`.
+		</string>
+		<string>
+Move `position` up, and to the right, for the next graphic:\
+`position.x += 75`\
+`position.y += 75`
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Create a graphic with image.`\
+`let graphic = Graphic(image: image)`\
+`//➤ Place graphic on the scene.`\
+`scene.place(graphic, at: position)`\
+`//➤ Set position for next graphic.`\
+`position.x += 75`\
+`position.y += 75`
+	</string>
+	<key>success</key>
+	<string>
+### You’re a star planet placer!
+
+**Challenge:** Can you change the code to put the row of planets in a different quadrant, maybe the top-left one?
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

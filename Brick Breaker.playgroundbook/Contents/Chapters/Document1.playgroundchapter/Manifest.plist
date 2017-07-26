@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>Name</key>
+	<string>Brick Breaker</string>
+	<key>Description</key>
+	<string></string>
+	<key>Pages</key>
+	<array>
+		<string>01_Challenge.playgroundpage</string>
+		<string>02_Challenge.playgroundpage</string>
+		<string>03_Challenge.playgroundpage</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Denke an alle Werkzeuge, die du bisher kennengelernt hast: [Funktionen](glossary://function), [`for`-Schleifen](glossary://for%20loop), [`while`-Schleifen](glossary://while%20loop), [bedingte Anweisungen](glossary://conditional%20code) und [Operatoren](glossary://logical%20operator). Wie kannst du mit diesen bekannten Werkzeugen das Rätsel lösen?</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

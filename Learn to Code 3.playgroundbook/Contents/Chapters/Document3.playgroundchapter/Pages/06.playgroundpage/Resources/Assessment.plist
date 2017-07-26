@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Work out roughly where the center of each caption should be, and create a point for those coordinates using `Point(x:y:)`.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Add captions to scene.`\
+`// For each caption...`\
+`let graphic1 = Graphic(text: caption1)`\
+`scene.place(graphic1, at: Point(x: -250, y: 250))`
+	</string>
+	<key>success</key>
+	<string>
+### Well done!
+
+**Idea:** Set the background image to your own photo—maybe a selfie with your friends—and put some captions on it!
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

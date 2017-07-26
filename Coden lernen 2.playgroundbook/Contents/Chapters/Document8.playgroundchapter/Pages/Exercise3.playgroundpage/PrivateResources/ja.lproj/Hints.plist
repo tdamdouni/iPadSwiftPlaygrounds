@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>`gemCounter`（宝石カウンター）の値が7よりも小さい間は、コードを繰り返さなければいけません。`while`ループの条件に、[比較演算子](glossary://comparison%20operator)の`&lt;`を使いましょう。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

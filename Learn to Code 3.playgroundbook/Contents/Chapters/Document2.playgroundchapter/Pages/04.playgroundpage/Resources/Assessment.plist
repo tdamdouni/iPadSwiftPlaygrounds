@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>After incrementing `index`, check if it’s equal to `animals.count`. If it is, set it back to `0`.</string>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<string>
+### Well done!
+
+Remember that the index to an array starts at 0 and goes up to the array’s count minus 1. So if the index *equals* the count, the index has gone past the end of the array, and it’s time to set the index back to 0.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

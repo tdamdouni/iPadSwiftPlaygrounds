@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Set the tool’s `onFingerMoved` property to the full name of an event handler function. For example:\
+`fruitTool.onFingerMoved = addFruit(touch:)`
+		</string>
+		<string>
+Add the tool to the scene:\
+`scene.tools.append(fruitTool)`
+		</string>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<string>
+### Congratulations!
+
+**Challenge:** Try writing your own `onFingerMoved` function, and add a new tool to call it.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

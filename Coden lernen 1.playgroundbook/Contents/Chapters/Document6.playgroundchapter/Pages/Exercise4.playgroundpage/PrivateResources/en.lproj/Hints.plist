@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>You need to write two loops. Make the first—the [outer loop](glossary://outer%20loop)—run while your character is not blocked. Make the second—the [inner loop](glossary://inner%20loop)—move your character forward while not on a gem. The outer loop will continue to run the inner loop until the outer loop stops. In this way, the inner `while` loop runs continuously until the end condition is met.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

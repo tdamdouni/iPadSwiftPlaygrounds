@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Establecer `index` para que apunte a un elemento aleatorio en el arreglo:
+`let index = randomInt(from: 0, to: animals.count - 1)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+`rotation` puede tener cualquier valor `Double` en grados, desde `0` a `360`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Set index to a random value.`\
+`let index = randomInt(from: 0, to: animals.count - 1)`\
+\
+`// Scale and rotate graphic.`\
+`graphic.scale = randomDouble(from: 0.5, to: 2.0)`\
+`graphic.rotation = randomDouble(from: 0.0, to: 360.0)`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Genial!
+
+Experimenta creando tu propio arreglo de imágenes y usando `scale` y `rotation`.
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Set `index` to point to a random item in the array:\
+`let index = randomInt(from: 0, to: animals.count - 1)`
+		</string>
+		<string>
+`rotation` can have any `Double` value, in degrees, from `0` to `360`.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Set index to a random value.`\
+`let index = randomInt(from: 0, to: animals.count - 1)`\
+\
+`//➤ Scale and rotate graphic.`\
+`graphic.scale = randomDouble(from: 0.5, to: 2.0)`\
+`graphic.rotation = randomDouble(from: 0.0, to: 360.0)`
+	</string>
+	<key>success</key>
+	<string>
+### Great!
+
+Experiment by creating your own array of images, and using `scale` and `rotation`.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

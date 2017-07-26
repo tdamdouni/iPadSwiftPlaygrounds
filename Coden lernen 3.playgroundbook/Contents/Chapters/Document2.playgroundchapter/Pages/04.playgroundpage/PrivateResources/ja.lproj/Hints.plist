@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+`index`（インデックス）を`1`ずつ増やし続けると、そのうち`animals`配列内の最後の項目を越えてしまいます。その場合は、`index`を`0`に戻すことができます。そうすることで、配列の項目をもう一度反復処理できるようになります。
+
+`index`を増やしたら、`animals.count`と等しいかどうかを確かめてください。等しい場合は、`index`を`0`に設定して、配列内の1つ目の項目を指定するように戻します。
+			</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### よくできました!
+
+配列のインデックスは0（最初の項目）から始まって、配列の項目数マイナス1（最後の項目）で終わるんでしたよね? ですから、インデックスが項目数と等しいときは、インデックスが配列の最後の項目を越えているので、インデックスを0に戻さなければなりません。
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>尝试使用[伪代码](glossary://pseudocode)设计要如何通过这一关。思考可以使用哪些技能，并找到着手点。想出策略后，开始编写和测试你的代码。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

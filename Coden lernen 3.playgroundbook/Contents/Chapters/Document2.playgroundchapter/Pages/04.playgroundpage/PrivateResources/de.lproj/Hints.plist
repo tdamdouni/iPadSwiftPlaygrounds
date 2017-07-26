@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Wenn du `index` immer um `1` erhöhst, **überschreitest** du irgendwann das letzte Objekt des Arrays `animals`. Wenn dies passiert, kannst du `index` auf `0` zurücksetzen und erneut durch das Array gehen.
+
+Prüfe, nachdem du `index` erhöht hast, ob er genauso groß ist wie `animals.count`. Wenn ja, setze `index` auf `0` zurück, damit er wieder auf das erste Objekt des Arrays verweist.
+			</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+ `if index == animals.count {`\
+ `   index = 0`\
+ `}`		
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Gut gemacht!
+
+Denk daran, dass der Index eines Arrays mit 0 als erstem Objekt beginnt und das letzte Objekt als Index die Anzahl der Objekte im Array minus 1 hat. Wenn also der Index *genauso groß* ist wie die Anzahl der Objekte, hat er die Grenze überschritten und sollte auf 0 zurückgesetzt werden.
+
+[**Nächste Seite**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

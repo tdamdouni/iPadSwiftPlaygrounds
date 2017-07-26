@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>采用之前练习中的现有代码，看看你是否能用它来通过这个稍有不同的关卡。注意在不仅右边受阻且前方也受阻时必须采取不同的操作。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

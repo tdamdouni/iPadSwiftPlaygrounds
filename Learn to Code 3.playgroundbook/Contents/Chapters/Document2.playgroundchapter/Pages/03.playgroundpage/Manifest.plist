@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+To move a graphic, select the **Move** tool and drag the graphic with your finger.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+To remove a graphic, select the **Erase** tool and tap the graphic.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+This is an **Experiment** page and no solution is provided. You’re free to have fun experimenting and to come up with your own solutions.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Moving and Erasing Graphics</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

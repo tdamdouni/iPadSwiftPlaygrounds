@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Commence par te déplacer vers la case où tu veux que ton personnage tourne à droite. Utilise ensuite une combinaison de commandes existantes pour te diriger dans cette direction.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Si tu tournes assez de fois à gauche, tu auras fait un demi-tour.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

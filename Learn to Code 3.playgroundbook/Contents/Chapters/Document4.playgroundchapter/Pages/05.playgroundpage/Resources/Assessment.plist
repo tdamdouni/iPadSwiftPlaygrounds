@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Create a `Tool` instance, giving it a name and emoji icon.
+		</string>
+		<string>
+Set the tool’s `onFingerMoved` property to the full name of a “finger moved” event handler function.
+		</string>
+		<string>
+Set the tool’s `onGraphicTouched` property to the full name of a “graphic touched” event handler function.
+		</string>
+	</array>
+	<key>success</key>
+	<string>
+### Great work!
+
+**Remember** these tool properties:
+
+* `onFingerMoved`: Takes a “finger moved” event handler function with a `Touch` parameter.
+
+* `onGraphicTouched`: Takes a “graphic touched” event handler function with a `Graphic` parameter.
+
+On the [**next page**](@next), you’ll find out how to modify graphics when you touch them.
+	</string>
+</dict>
+</plist>

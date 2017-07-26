@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Du hast ein paar Befehle eingegeben. Tippe zunächst auf den Bereich, in dem „Tippen, um Code einzugeben“ steht und verwende dann `moveForward()` und `collectGem()`, um das Rätsel zu lösen.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Use string interpolation to build a sentence pattern, putting in the different parts of speech; for example, `\(verb)`.
+		</string>
+		<string>
+Replace some of the words in the arrays with your own. Just be sure to put them in the correct array, or the sentence won’t make sense.
+		</string>
+	</array>
+</dict>
+</plist>

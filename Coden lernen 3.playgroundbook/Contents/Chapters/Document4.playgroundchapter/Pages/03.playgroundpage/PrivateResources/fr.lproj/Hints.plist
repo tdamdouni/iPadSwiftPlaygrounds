@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Crée un outil en lui donnant un nom et une icône d’Emoji. Par exemple :\
+`let fruitTool = Tool(name: "Fruit", emojiIcon: "🍒")`\
+ou :\
+`let greetingTool = Tool(name: "Greeting", emojiIcon: "🙏")`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Définis la propriété `onFingerMoved` de l’outil sur le nom complet de l’une des fonctions du gestionnaire d’événements. Par exemple :\
+`fruitTool.onFingerMoved = addFruit(touch:)`\
+ou :\
+`greetingTool.onFingerMoved = addGreeting(touch:)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Enfin, ajoute l’outil à la scène. Par exemple :\
+`scene.tools.append(fruitTool)`\
+ou :\
+`scene.tools.append(greetingTool)`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Félicitations!
+
+**Défi :** Essaie d’écrire ta propre fonction `onFingerMoved` et ajoutes-y une nouvelle demande.
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

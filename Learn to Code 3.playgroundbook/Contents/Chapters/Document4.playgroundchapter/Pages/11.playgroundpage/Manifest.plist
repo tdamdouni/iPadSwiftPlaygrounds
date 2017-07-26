@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+Use the **Move** tool to move the instrument graphics closer to the center (for a higher pitch), or farther away (for a lower pitch).
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Two instrument tools are provided for you, but you can change them or add more. Scroll down to `// Add instrument tools` in the code.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Try sliding your finger around over the instrument graphics.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Don’t limit yourself to instruments—you can add a tool to play sound effects or to speak text.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Soundboard</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+创建 `Tool` 实例，给它取名并指定一个表情符号图标。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+将工具的 `onFingerMoved` 属性设置为“移动手指”事件处理函数的全名。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+将工具的 `onGraphicTouched` 属性设置为“触碰图形”事件处理函数的全名。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 干得很棒！
+
+**记住**这些工具属性：
+
+* `onFingerMoved`：采用“移动手指”事件处理函数和 `Touch` 参数。
+
+* `onGraphicTouched`：采用“触碰图形”事件处理函数和 `Graphic` 参数。
+
+在[**下一页**](@next)中，你将找出如何在触碰图形时对图形进行修改。
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

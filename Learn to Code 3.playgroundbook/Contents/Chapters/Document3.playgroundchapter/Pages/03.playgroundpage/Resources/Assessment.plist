@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Add a string to `greeting` using the append operator (`+=`).
+		</string>
+		<string>
+Append an exclamation mark:\
+`greeting += &quot;!&quot;`\
+\
+Append a space:\
+`greeting += &quot; &quot;`
+		</string>
+		<string>
+Use the `speak()` function, passing `greeting` as its parameter.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Put together the greeting.`\
+`greeting += &quot;! &quot;`\
+`greeting += sentence2`\
+`greeting += &quot; &quot;`\
+`greeting += destination`\
+`greeting += &quot;.&quot;`\
+`// Print the greeting.`\
+`scene.write(greeting)`\
+`//➤ Speak the greeting.`\
+`speak(greeting)`
+	</string>
+	<key>success</key>
+	<string>
+### Well done! Enjoy your trip!
+
+Try again with a different destination.
+
+On the [**next page**](@next), you’ll discover an easier way to build strings.
+	</string>
+</dict>
+</plist>

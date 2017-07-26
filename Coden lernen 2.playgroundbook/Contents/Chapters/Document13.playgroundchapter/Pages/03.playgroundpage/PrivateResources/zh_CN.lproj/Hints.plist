@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>若要从数组移除项目，请使用[点记法](glossary://dot%20notation)调用 **`remove(at: Int)`** [方法](glossary://method)：**`characters.remove(at: 3)`**。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

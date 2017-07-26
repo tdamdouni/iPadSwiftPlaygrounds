@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Locating Ships</string>
+	<key>Description</key>
+	<string>TODO: Description</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>CodeCopySetup</key>
+	<dict>
+		<key>ReadyToCopyInstructions</key>
+		<string>You can bring over your algorithm from the previous page to continue improving it.</string>
+		<key>NotReadyToCopyInstructions</key>
+		<string>Be sure to complete the previous page before you move on to refining your algorithm.</string>
+		<key>CopyCommandButtonTitle</key>
+		<string>BRING OVER MY CODE</string>
+		<key>NavigateCommandButtonTitle</key>
+		<string>RETURN TO PREVIOUS PAGE</string>
+		<key>DefaultCommandButtonTitle</key>
+		<string>START CODING ON THIS PAGE</string>
+	</dict>
+</dict>
+</plist>

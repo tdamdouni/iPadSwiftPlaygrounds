@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**思い出そう:** 配列内の1つ目の項目はインデックス0の位置にあります。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**ヒント:** [配列](glossary://array)と[インデックス](glossary://index)を扱うときは、紙と鉛筆を用意して配列の項目とインデックスを絵に描いてみると理解しやすくなります。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Insert and remove items.`\
+`images.insert(rugbyBall, at: 1)`\
+`images.remove(at: 4)`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### すごい!
+
+配列のインデックスを覚えておくのは面倒ですね! たとえば、ビリヤードボール星を取り除いてラグビーボール星を配列の最後、バスケットボール星の後ろに入れたいとします。ラグビーボール星をどのインデックスの位置に挿入しますか?
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

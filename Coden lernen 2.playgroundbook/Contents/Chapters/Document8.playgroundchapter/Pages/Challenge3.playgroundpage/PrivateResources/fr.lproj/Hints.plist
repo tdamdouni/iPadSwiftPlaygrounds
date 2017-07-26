@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Un nombre aléatoire de gemmes apparaîtra sur la première plateforme. Vérifie chaque case et incrémente une variable de comptage de gemmes pour compter le nombre de gemmes que tu collectes.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

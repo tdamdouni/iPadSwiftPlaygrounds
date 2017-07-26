@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>想想开关放置的模式。你如何利用这个模式来写出解决小问题的函数，然后再将各函数组合在一起来解决更大的问题？</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

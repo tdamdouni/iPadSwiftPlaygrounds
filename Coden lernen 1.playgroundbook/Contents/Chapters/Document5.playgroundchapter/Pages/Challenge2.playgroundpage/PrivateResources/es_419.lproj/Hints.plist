@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Primero, piensa en algunas posibles soluciones para este resto. Usa código condicional y operadores lógicos para crear reglas para la forma en la que tu personaje se mueve por el mundo. Luego escribe código y pruébalo. Si al principio no lo logras, vuelve a intentarlo.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

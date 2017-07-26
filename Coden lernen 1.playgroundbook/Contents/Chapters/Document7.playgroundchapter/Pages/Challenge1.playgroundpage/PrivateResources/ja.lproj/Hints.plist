@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、ステージを眺めて、パターンを探しましょう。パターンが見つかったら、そのパターンを解くための規則と指示を考えます。解きかたがわかったら、コードに書いてみましょう。</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>道をよく見ると、宝石があるときはいつも右に寄り、スイッチがあるときはいつも左に寄るようになっています。このパターンを使って自分でアルゴリズムを作りましょう。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>这一关中有三段主要的阶梯要爬。对于每一段阶梯，使用一个函数让你的角色走到阶梯尽头，切换开关，然后再走回下方。
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

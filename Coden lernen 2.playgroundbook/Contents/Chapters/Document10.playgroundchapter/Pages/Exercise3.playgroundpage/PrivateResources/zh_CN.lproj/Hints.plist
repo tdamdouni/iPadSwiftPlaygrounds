@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>首先，[初始化](glossary://initialization)你的专家和角色的[实例](glossary://instance)。请不要更改所提供的常量名称 `character` 和 `expert`。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

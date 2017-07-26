@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Place un graphisme dans chaque quadrant, en calculant les coordonnées (x, y) de chacun d’eux.\
+À titre d’exemple, obtiens la position du graphisme dans le quadrant inférieur gauche :\
+`let position3 = Point(x: -x, y: -y)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Idée :** Définis les valeurs `rotation` et `scale` de chaque graphisme sur les mêmes valeurs aléatoires :\
+`let rotation = randomDouble(from: 0, to: 180)`\
+`let scale = randomDouble(from: 0.5, to: 2.5)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Idée :** Configure chaque graphisme pour qu’ils s’estompent au bout d’un certain temps :\
+`graphic.fadeOut(after: 2.0)`
+				</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Idée :** Positionne chaque graphisme à partir de l’endroit où tu le touches :\
+`scene.place(graphics[0], at: touch.position)`\
+`graphics[0].move(to: position1, duration: 2.0)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Il s’agit d’une page **Créer** et aucune solution n’est fournie. Tu peux donc proposer tes propres idées créatives.
+		</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

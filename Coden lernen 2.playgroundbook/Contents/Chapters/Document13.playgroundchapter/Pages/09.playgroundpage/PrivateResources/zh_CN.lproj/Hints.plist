@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>使用 **`randomInt`** 函数生成一系列随机数，并将它们附加到 `heights`。你可以使用 [`for` 循环](glossary://for%20loop)来执行此操作。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

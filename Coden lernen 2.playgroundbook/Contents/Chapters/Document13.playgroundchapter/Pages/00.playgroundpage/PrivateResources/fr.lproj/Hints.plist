@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Tu dois placer une instance de ton personnage sur chaque instance du monde du puzzle. Modifie ton [tableau](glossary://array) pour qu’il inclue toutes les valeurs de rang de `0` à `5`.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

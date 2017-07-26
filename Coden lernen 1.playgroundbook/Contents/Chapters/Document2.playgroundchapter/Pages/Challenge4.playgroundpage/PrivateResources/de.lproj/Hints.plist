@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Denke über das Muster nach, in dem die Schalter platziert sind. Wie kannst du das Muster nutzen, um Funktionen zu schreiben, mit denen du kleinere Probleme löst und die du zusammenfügen kannst, um das größere Problem zu lösen?</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

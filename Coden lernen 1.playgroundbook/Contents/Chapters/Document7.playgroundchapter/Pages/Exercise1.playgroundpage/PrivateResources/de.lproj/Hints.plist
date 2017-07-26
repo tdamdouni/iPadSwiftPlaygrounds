@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Führe zunächst den angegebenen Code aus. Die Funktion `navigateAroundWall()` bewegt deinen Charakter an einer der Wände der Rätselwelt entlang. Arbeite mit dem vorhandenen Code und passe ihn an, um alle Edelsteine einzusammeln und den Schaltern am äußeren Ende der Welt zu aktivieren.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

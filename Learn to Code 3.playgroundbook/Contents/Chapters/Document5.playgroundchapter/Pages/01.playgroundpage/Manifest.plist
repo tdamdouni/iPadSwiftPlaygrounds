@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+Change the emoji used for the graphic, or pick one at random from an array of emoji.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Pick a different-colored emoji from an array, depending on which note is being played.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Experiment with the graphic’s `scale`: try very large `scale` values.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Use a different instrument for each quadrant.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Music Universe</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

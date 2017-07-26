@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**牢记：** 函数的全名包括其由冒号 (`:`) 分隔的参数名称。`addAlien()` 的函数全名是 `addAlien(touch:)`。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 非常不错！
+
+ 你可能在想如何给函数设置诸如 `onFingerMoved` 的属性。`onFingerMoved` 具有函数类型，而不是类似于 `String` 或 `Int` 的类型。它可以设置到每个只包含一个 `Touch` 参数的函数，如 `addAlien(touch:)` 或 `addMonster(touch:)`。
+
+[**下一页**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

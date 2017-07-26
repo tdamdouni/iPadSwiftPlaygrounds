@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Use the `speak()` function.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`speak(twister1)`
+	</string>
+	<key>success</key>
+	<string>
+### Well done!
+
+Your reward is a couple of surprise bonus twisters: `bonusTwister1` and `bonusTwister2`. Go on, try them!
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

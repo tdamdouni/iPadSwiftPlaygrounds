@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>顶部平台上**没有**宝石的砖块延伸出一段阶梯。使用条件“如果你的角色不在宝石处”来确定该情况下怎么做。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

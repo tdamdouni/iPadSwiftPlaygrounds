@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Boolean</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Challenge1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un type dont la valeur est `true` ou `false`. Par exemple, `9 &lt; 7` retourne une valeur booléenne `false`, car `9` n’est pas inférieur à `7`.</string>
+				<key>Title</key>
+				<string>Booléen</string>
+			</dict>
+		</dict>
+		<key>Int</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un type qui contient un nombre entier, c’est à dire qui ne possède pas de décimale, comme`10` ou `-42`. </string>
+				<key>Title</key>
+				<string>Int</string>
+			</dict>
+		</dict>
+		<key>String</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un type qui contient une série de caractères, comme `“hello, world”` ou `“dancing kittens.”`</string>
+				<key>Title</key>
+				<string>Chaîne</string>
+			</dict>
+		</dict>
+		<key>Swift</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/Introduction.cutscenepage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Commandes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le langage de programmation d’Apple, servant à créer des apps pour iPhone, iPad, Mac, Apple Watch et Apple TV. </string>
+				<key>Title</key>
+				<string>Swift</string>
+			</dict>
+		</dict>
+		<key>algorithm</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document7.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Algorithmes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un ensemble d’instructions à suivre pas à pas pour résoudre un problème. Par exemple, la liste des étapes permettant de faire une tasse de thé peut être considérée comme un algorithme.</string>
+				<key>Title</key>
+				<string>algorithme</string>
+			</dict>
+		</dict>
+		<key>argument</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une valeur d’entrée transmise à une fonction pour personnaliser son comportement. Par exemple, dans l’appel à la fonction `move(distance: 3)`, `3` est un argument qui indique de combien d’espaces se déplacer.</string>
+				<key>Title</key>
+				<string>argument</string>
+			</dict>
+		</dict>
+		<key>arithmetic operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole, tel que `+`, `-`, `*`, ou `/`, qui effectue une opération mathématique basique impliquant un ou plusieurs nombres. Par exemple, `42 / 7` et `17 - 5` utilisent des opérateurs arithmétiques.</string>
+				<key>Title</key>
+				<string>opérateur arithmétique</string>
+			</dict>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une collection qui stocke une liste ordonnée d’éléments du même type. Le même élément peut apparaître plusieurs fois à différents endroits. Par exemple, `highScores = [37, 34, 29, 29, 26]` est un tableau de nombres entiers.</string>
+				<key>Title</key>
+				<string>matrice</string>
+			</dict>
+		</dict>
+		<key>array out of bounds error</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une erreur qui survient lorsque l’on essaie d’accéder à un tableau en utilisant un index qui se trouve en dehors des limites de ce tableau. Par exemple, l’index `2` se trouve en dehors des limites du tableau suivant : `[17, 42]`.</string>
+				<key>Title</key>
+				<string>erreur Tableau hors limites</string>
+			</dict>
+		</dict>
+		<key>assignment</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une action qui définit la valeur d’une variable ou d’une constante.</string>
+				<key>Title</key>
+				<string>attribution</string>
+			</dict>
+		</dict>
+		<key>assignment operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le symbole `=` qui sert à définir la valeur d’une variable. Par exemple, `greeting = “hello”` définit la valeur de `greeting` sur `“hello”`.</string>
+				<key>Title</key>
+				<string>opérateur d’attribution</string>
+			</dict>
+		</dict>
+		<key>bug</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/Exercise4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Commandes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une erreur dans le code qui empêche une application de s’exécuter comme elle devrait le faire. 
+</string>
+				<key>Title</key>
+				<string>bug</string>
+			</dict>
+		</dict>
+		<key>call</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Exercise2.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Pour indiquer à un programme d’exécuter une fonction. Par exemple, en appelant la fonction `moveForward()` dans ton code, tu indiques au programme d’effectuer l’opération définie dans cette fonction.</string>
+				<key>Title</key>
+				<string>appeler</string>
+			</dict>
+		</dict>
+		<key>coding</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/Introduction.cutscenepage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Commandes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>L’action consistant à composer des commandes, des structures de code et des algorithmes de façon à créer un programme d’ordinateur.
+</string>
+				<key>Title</key>
+				<string>codage</string>
+			</dict>
+		</dict>
+		<key>command</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Commandes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Du code qui indique à une application d’effectuer une action spécifique. 
+</string>
+				<key>Title</key>
+				<string>commande</string>
+			</dict>
+		</dict>
+		<key>comparison operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole, tel que `==`, `!=`, `&lt;`, `&gt;`, `&lt;=`, ou `&gt;=`, servant à comparer deux valeurs. On peut utiliser l’opérateur de comparaison dans une condition d’une instruction `if` ou d’une boucle `while` pour retourner une valeur booléenne indiquant si une comparaison est `true`. Par exemple, `6 &gt; 8` compare `6` et `8` et retourne `false`.</string>
+				<key>Title</key>
+				<string>opérateur de comparaison</string>
+			</dict>
+		</dict>
+		<key>composition</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le processus consistant à associer de petites parties d’un programme pour résoudre un plus gros problème. 
+</string>
+				<key>Title</key>
+				<string>composition</string>
+			</dict>
+		</dict>
+		<key>compound assignment operator</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un opérateur qui associe l’attribution (la définition de la valeur d’une variable) avec une autre opération, comme une addition ou une soustraction. Par exemple, si la valeur actuelle de `a` est `1`, utiliser `a += 3` ajoute `3` à `1` et attribue le résultat à `a`, pour que la valeur de `a` passe à `4`.</string>
+				<key>Title</key>
+				<string>opérateur d’attribution composée</string>
+			</dict>
+		</dict>
+		<key>conditional code</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Introduction.cutscenepage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Du code qui s’exécute uniquement lorsque certaines conditions sont satisfaites. Par exemple, les instructions `if` et les boucles `while` contiennent du code conditionnel qui s’exécute uniquement lorsqu’une condition est `true`. </string>
+				<key>Title</key>
+				<string>code conditionnel</string>
+			</dict>
+		</dict>
+		<key>constant</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un conteneur désigné qui contient une valeur ne pouvant pas être modifiée.</string>
+				<key>Title</key>
+				<string>constante</string>
+			</dict>
+		</dict>
+		<key>debug</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document1.playgroundchapter/Exercise4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Commandes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Pour trouver et corriger des erreurs dans le code qui empêchent une application de s’exécuter correctement. </string>
+				<key>Title</key>
+				<string>débuggage</string>
+			</dict>
+		</dict>
+		<key>declaration</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un extrait de code qui crée quelque chose de nouveau dans ton application, comme une fonction, une variable ou un type personnalisé. Par exemple, `let planet = “Earth”` déclare une nouvelle constante, `planet`, et lui attribue une valeur de `"Earth"`.</string>
+				<key>Title</key>
+				<string>déclaration</string>
+			</dict>
+		</dict>
+		<key>decomposition</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Exercise3.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le processus consistant à répartir un gros problème en plus petits éléments plus faciles à gérer. </string>
+				<key>Title</key>
+				<string>décomposition</string>
+			</dict>
+		</dict>
+		<key>define</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Exercise2.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Pour fournir la valeur explicite ou le comportement d’un extrait de code nouvellement créé, comme une fonction, une variable ou un type personnalisé. Par exemple, tu définis une fonction en ajoutant un ensemble de commandes à l’intérieur de la fonction pour lui indiquer ce qu’il faut faire.</string>
+				<key>Title</key>
+				<string>définir</string>
+			</dict>
+		</dict>
+		<key>dot notation</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une forme de syntaxe servant à accéder aux propriétés ou à appeler les méthodes d’une instance. Par exemple, `expert.toggleSwitch()` appelle la méthode `toggleSwitch()` dans l’instance `expert`.</string>
+				<key>Title</key>
+				<string>notation par points</string>
+			</dict>
+		</dict>
+		<key>else block</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Introduction.cutscenepage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le dernier bloc de code dans une instruction `if`. Le bloc `else` s’exécute si toutes les conditions de l’instruction `if` sont `false`. </string>
+				<key>Title</key>
+				<string>bloc else</string>
+			</dict>
+		</dict>
+		<key>else if block</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Exercise2.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un bloc de code dans une instruction`if`, permettant de vérifier une condition qui ne l’est pas par le bloc `if`, ou tout autre bloc `else if`.</string>
+				<key>Title</key>
+				<string>bloc else if</string>
+			</dict>
+		</dict>
+		<key>enumeration</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un type qui définit un ensemble de valeurs uniques, mais associées, que l’on appelle *cas d’énumération*. Par exemple, une énumération `Direction` définit des cas pour chaque point cardinal : `north`, `south`, `east` et `west`. Quand tu attribues une énumération à une variable ou à une constante, tu dois toujours choisir un seul de ses cas, comme `let compassDirection: Direction = .north`.</string>
+				<key>Title</key>
+				<string>énumération</string>
+			</dict>
+		</dict>
+		<key>for loop</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document3.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Boucles For</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un bloc de code répété qui s’exécute un certain nombre de fois. </string>
+				<key>Title</key>
+				<string>boucle for</string>
+			</dict>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Exercise2.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un ensemble de commandes désigné qui peut être exécuté à tout moment en cas de besoin.</string>
+				<key>Title</key>
+				<string>fonction</string>
+			</dict>
+		</dict>
+		<key>if block</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le premier bloc de code est une instruction `if`. Le bloc `if` s’exécute si la condition de l’instruction `if` est `true`. </string>
+				<key>Title</key>
+				<string>bloc if</string>
+			</dict>
+		</dict>
+		<key>if statement</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une structure de code permettant d’exécuter du code en fonction de la valeur d’une ou de plusieurs conditions. Le premier bloc de code dans une instruction `if` est le bloc `if`. Une instruction `if` peut également contenir d’autres blocs fournissant des vérifications supplémentaires, comme un bloc `else` et `else if`.</string>
+				<key>Title</key>
+				<string>instruction if</string>
+			</dict>
+		</dict>
+		<key>index</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un numéro représentant la position d’un élément dans un tableau. </string>
+				<key>Title</key>
+				<string>index</string>
+			</dict>
+		</dict>
+		<key>initialization</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>L’action consistant à créer une nouvelle instance d’un type, ce qui comprend la définition de valeurs initiales pour toute propriété du type. </string>
+				<key>Title</key>
+				<string>initialisation</string>
+			</dict>
+		</dict>
+		<key>inner loop</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document6.playgroundchapter/Exercise4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Boucles while</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un bloc de code se répétant (une boucle) et étant imbriqué dans une autre boucle (extérieure).</string>
+				<key>Title</key>
+				<string>boucle intérieure</string>
+			</dict>
+		</dict>
+		<key>instance</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une valeur d’un certain type. Par exemple, dans `let greenPortal = Portal()`, `greenPortal` est une instance du type `Portal`.</string>
+				<key>Title</key>
+				<string>instance</string>
+			</dict>
+		</dict>
+		<key>iteration</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>L’action consistant à répéter un processus, comme effectuer la même opération pour chaque élément d’un tableau.</string>
+				<key>Title</key>
+				<string>itération</string>
+			</dict>
+		</dict>
+		<key>local variable</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une variable déclarée à l’intérieur d’une fonction, d’une boucle ou d’une autre instruction. On ne peut accéder aux variables locales en dehors du code dans lequel elles sont définies.</string>
+				<key>Title</key>
+				<string>variable locale</string>
+			</dict>
+		</dict>
+		<key>logical AND operator</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document5.playgroundchapter/Exercise2.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Opérateurs logiques</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole (`&amp;&amp;`) qui associe deux valeurs booléennes. Les deux valeurs doivent être vraies pour que l’ensemble du code le soit aussi. Par exemple, `a &amp;&amp; b` est uniquement vrai si `a` et `b` sont `true`.</string>
+				<key>Title</key>
+				<string>opérateur logique AND</string>
+			</dict>
+		</dict>
+		<key>logical NOT operator</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document5.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Opérateurs logiques</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole (`!`) qui inverse la valeur booléenne d’un extrait de code. Par exemple, si `a` est `true`, alors `!a` est `false`.</string>
+				<key>Title</key>
+				<string>opérateur logique NOT</string>
+			</dict>
+		</dict>
+		<key>logical OR operator</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document5.playgroundchapter/Exercise3.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Opérateurs logiques</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole (||) qui associe deux valeurs booléennes. Une seule valeur doit être vraie pour que l’ensemble du code le soit aussi. Par exemple, a || b est uniquement vrai si a ou b est vrai (ou si les deux le sont). 
+</string>
+				<key>Title</key>
+				<string>opérateur logique OR</string>
+			</dict>
+		</dict>
+		<key>logical operator</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document5.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Opérateurs logiques</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole, tel que `&amp;&amp;`, `||`, ou `!`, qui modifie ou associe les valeurs logiques booléennes `true` et `false`.</string>
+				<key>Title</key>
+				<string>opérateur logique</string>
+			</dict>
+		</dict>
+		<key>loop</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document3.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Boucles For</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un bloc de code qui se répète un certain nombre de fois (comme une boucle `for`) ou jusqu’à ce qu’une condition soit satisfaite (par exemple, une boucle `while`).</string>
+				<key>Title</key>
+				<string>boucle</string>
+			</dict>
+		</dict>
+		<key>method</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une fonction ou un ensemble de commandes qui est défini à l’intérieur d’un type.</string>
+				<key>Title</key>
+				<string>méthode</string>
+			</dict>
+		</dict>
+		<key>nest</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document6.playgroundchapter/Exercise4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Boucles while</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Pour placer un bloc de code qui se répète (une boucle) à l’intérieur d’un autre bloc.</string>
+				<key>Title</key>
+				<string>imbriquer</string>
+			</dict>
+		</dict>
+		<key>operator</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document5.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Opérateurs logiques</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un symbole, tel que `+`, `-`, ou `&amp;&amp;`, qui représente une action effectuée sur une ou plusieurs valeurs. Par exemple, dans `1 + 2`, l’opérateur d’addition (`+`) ajoute les nombres `1` et `2`. </string>
+				<key>Title</key>
+				<string>opérateur</string>
+			</dict>
+		</dict>
+		<key>outer loop</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document6.playgroundchapter/Exercise4.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Boucles while</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un bloc de code se répétant (une boucle) et contenant une autre boucle (intérieure).</string>
+				<key>Title</key>
+				<string>boucle extérieure</string>
+			</dict>
+		</dict>
+		<key>parameter</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le nom d’une valeur d’entrée pour une fonction, utilisée dans la définition de cette dernière. Par exemple, dans `move(distance: Int)`, `distance` est un paramètre qui prend une valeur de type Int.</string>
+				<key>Title</key>
+				<string>paramètre</string>
+			</dict>
+		</dict>
+		<key>pattern</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Challenge1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un ensemble de circonstances ou de données se répétant. 
+</string>
+				<key>Title</key>
+				<string>pattern</string>
+			</dict>
+		</dict>
+		<key>property</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une variable (un conteneur désigné qui contient une valeur) définie à l’intérieur d’un type.</string>
+				<key>Title</key>
+				<string>propriété</string>
+			</dict>
+		</dict>
+		<key>pseudocode</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document7.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Algorithmes</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>La description d’un algorithme lisible par l’homme, généralement écrite avec un mélange de langue courante et de code. 
+</string>
+				<key>Title</key>
+				<string>pseudo-code</string>
+			</dict>
+		</dict>
+		<key>reusability</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document2.playgroundchapter/Challenge2.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Fonctions</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une caractéristique de code lui permettant d’être utilisé dans différentes situations au sein d’un programme. 
+</string>
+				<key>Title</key>
+				<string>réutilisation</string>
+			</dict>
+		</dict>
+		<key>right-hand rule</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une règle, servant généralement à générer des algorithmes de résolution de labyrinthe. Elle guide un personnage à travers un labyrinthe en suivant le mur à sa droite.</string>
+				<key>Title</key>
+				<string>règle de la main droite</string>
+			</dict>
+		</dict>
+		<key>state</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Les données stockées d’une variable, d’un programme ou d’un système à un moment donné.</string>
+				<key>Title</key>
+				<string>état</string>
+			</dict>
+		</dict>
+		<key>statement</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Exercise1.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Une structure, comme une boucle ou une instruction `if`, qui organise le code dans un programme.</string>
+				<key>Title</key>
+				<string>instruction</string>
+			</dict>
+		</dict>
+		<key>syntax</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Les règles pour l’écriture de code que les ordinateurs peuvent comprendre et exécuter.</string>
+				<key>Title</key>
+				<string>syntaxe</string>
+			</dict>
+		</dict>
+		<key>type</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un regroupement désigné de propriétés (les fonctionnalités) et de méthodes (les comportements) d’un type de données.</string>
+				<key>Title</key>
+				<string>type</string>
+			</dict>
+		</dict>
+		<key>variable</key>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un conteneur désigné qui contient une valeur pouvant être modifiée. </string>
+				<key>Title</key>
+				<string>variable</string>
+			</dict>
+		</dict>
+		<key>while loop</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document6.playgroundchapter/Introduction.cutscenepage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Boucles while</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Un bloc de code qui s’exécute tant qu’une condition indiquée est `true`. Lorsqu’une condition devient `false`, la boucle ne s’exécute plus. </string>
+				<key>Title</key>
+				<string>boucle while</string>
+			</dict>
+		</dict>
+		<key>wireframe</key>
+		<dict>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Document4.playgroundchapter/Exercise3.playgroundpage</string>
+				<key>_LOCALIZABLE_</key>
+				<dict>
+					<key>Title</key>
+					<string>Code conditionnel</string>
+				</dict>
+			</dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Definition</key>
+				<string>Le contour d’un élément du monde du puzzle, comme une gemme, un interrupteur ou un bloc. Un fil de fer indique la possibilité que l’élément pourrait apparaître de manière aléatoire chaque fois que l’on exécute le puzzle.</string>
+				<key>Title</key>
+				<string>fil de fer</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

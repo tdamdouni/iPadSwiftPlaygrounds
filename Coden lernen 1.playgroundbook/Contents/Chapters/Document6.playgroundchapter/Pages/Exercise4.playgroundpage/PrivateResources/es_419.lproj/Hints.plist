@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Necesitas escribir dos bucles. El primero, que debe ser un [bucle exterior](glossary://outer%20loop), debe ejecutarse mientras tu personaje no esté bloqueado. El segundo, el [bucle interior](glossary://inner%20loop), mueve a tu personaje hacia adelante mientras no esté en una joya. El bucle exterior seguirá ejecutando al bucle interior hasta que el exterior se detenga. De esta forma, el bucle `while` interior se ejecutará continuamente hasta que la última condición se haya completado.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

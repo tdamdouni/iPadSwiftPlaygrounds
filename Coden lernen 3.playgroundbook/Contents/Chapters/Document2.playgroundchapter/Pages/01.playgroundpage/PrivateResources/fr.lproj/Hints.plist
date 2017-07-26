@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Touche l’image utilisée pour créer le graphisme et choisis-en une autre. Essaie la grenouille, un extraterrestre, ou même un monstre sympathique 👾.
+	</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Tu es 🌟?
+
+Au lieu de faire glisser ton doigt, essayer de toucher la scène à divers endroits. Vois comme un nouveau graphisme est ajouté à chaque fois que tu touches l’écran. En effet, chaque toucher déclenche un seul événement de toucher et `addImage()` n’est exécuté qu’une seule fois.
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

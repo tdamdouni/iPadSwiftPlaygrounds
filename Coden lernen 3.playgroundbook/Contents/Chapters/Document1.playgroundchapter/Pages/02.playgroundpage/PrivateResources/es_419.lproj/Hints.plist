@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Puedes elegir una imagen de fondo de las imágenes disponibles o de tu fototeca. ¡Incluso puedes usar la cámara para tomar una foto de fondo!
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Qué escenario tan hermoso!
+
+Observa que la imagen de fondo obscurece el color de fondo. Sin embargo, si eliges una imagen que tenga partes transparentes, como **Blu**, se podrá ver el color de fondo a través de esas partes transparentes. Toma en cuenta esto cuando elijas un fondo para tu escenario.
+
+[**Siguiente página**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

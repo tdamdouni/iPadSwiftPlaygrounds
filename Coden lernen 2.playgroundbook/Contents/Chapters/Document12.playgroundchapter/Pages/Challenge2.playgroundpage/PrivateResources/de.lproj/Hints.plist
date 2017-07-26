@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Es gibt viele verschiedene Möglichkeiten, dieses Rätsel zu lösen. Nutze deine Fähigkeiten im Weltenbau, um Blöcke, Portale und Treppen hinzuzufügen, die dir helfen, das Rätsel so zu lösen, wie du es für am besten hältst.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

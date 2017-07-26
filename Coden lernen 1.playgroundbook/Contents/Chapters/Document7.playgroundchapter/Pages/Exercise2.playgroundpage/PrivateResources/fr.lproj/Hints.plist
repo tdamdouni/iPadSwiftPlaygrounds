@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Prends le même code que celui de l’exercice précédent, et essaie de le faire fonctionner de façon à résoudre ce puzzle qui est légèrement différent. Tu remarqueras que tu dois désormais effectuer une autre opération lorsque tu es bloqué à la fois devant toi et sur ta droite, et non simplement à droite, comme avant.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

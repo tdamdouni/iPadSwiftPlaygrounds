@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Use string interpolation to put `sentence1`, `sentence2`, and `destination` into `greeting`; for example, `\(destination)`.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`greeting = &quot;\(sentence1)! \(sentence2) \(destination).&quot;`\
+`scene.write(greeting)`\
+`speak(greeting)`\
+\
+`message = &quot;That’ll cost \(lightYears * fare) Jovian dollars.&quot;`\
+`scene.write(message)`\
+`speak(message)`
+	</string>
+	<key>success</key>
+	<string>
+### Well done! You’re turning into a string interpolation ninja.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Think of all the tools you've learned about so far: [functions](glossary://function), [`for` loops](glossary://for%20loop), [`while` loops](glossary://while%20loop), [conditional code](glossary://conditional%20code), and [operators](glossary://logical%20operator). How can you use these existing tools to solve this puzzle?</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

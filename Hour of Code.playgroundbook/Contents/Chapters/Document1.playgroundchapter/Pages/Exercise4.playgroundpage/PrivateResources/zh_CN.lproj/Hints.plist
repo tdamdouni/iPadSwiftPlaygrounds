@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>运行你的代码来看看 Byte 在哪里犯了第一个错误。这是你找到需要更改的第一行代码的方法。
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CodeCopySetup</key>
+	<dict>
+		<key>CopyCommandButtonTitle</key>
+		<string>COPY MY DATA FROM BUILDING SENTENCES</string>
+		<key>DefaultCommandButtonTitle</key>
+		<string>START CODING</string>
+		<key>NavigateCommandButtonTitle</key>
+		<string>RETURN TO BUILDING SENTENCES</string>
+		<key>NotReadyToCopyInstructions</key>
+		<string>You should really complete Building Sentences first.</string>
+		<key>ReadyToCopyInstructions</key>
+		<string>You may copy your data arrays from Building Sentences.</string>
+	</dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+Use string interpolation to build a sentence pattern, putting in the different parts of speech; for example, `\(verb)`.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+Replace some of the words in the arrays with your own. Just be sure to put them in the correct array, or the sentence won’t make sense.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Sentence Soup</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Pour déplacer un graphisme, sélectionne l’outil **Déplacer** et fais glisser le graphisme avec ton doigt.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Pour supprimer un graphisme, sélectionne l’outil **Effacer** et touche le graphisme.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Il s’agit d’une page **Expérience** et aucune solution n’est fournie. Tu peux donc tester différentes solutions et proposer les tiennes.
+		</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

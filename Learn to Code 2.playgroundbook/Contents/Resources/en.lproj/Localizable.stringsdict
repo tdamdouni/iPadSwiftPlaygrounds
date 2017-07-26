@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- http://unicode.org/cldr/charts/supplemental/language_plural_rules.html -->
+<plist version="1.0">
+<dict>
+    <key>gems_collected.%lu out of %lu gems collected</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%lu out of %#@lu_total_gems@ collected</string>
+        <key>lu_total_gems</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>one</key>
+            <string>%lu gem</string>
+            <key>other</key>
+            <string>%lu gems</string>
+        </dict>
+    </dict>
+    <key>swithes_opened.%lu out of %lu switches opened</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%lu out of %#@lu_total_switches@ opened</string>
+        <key>lu_total_switches</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>one</key>
+            <string>%lu switch</string>
+            <key>other</key>
+            <string>%lu switches</string>
+        </dict>
+    </dict>
+</dict>
+</plist>

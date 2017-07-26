@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+大概算出每个说明的中心位置应当在哪里，然后使用 `Point(x:y:)` 创建这些坐标对应的点。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`let graphic3 = Graphic(text: caption3)`\
+`scene.place(graphic3, at: Point(x: 250, y: -290))`\
+`let graphic4 = Graphic(text: caption4)`\
+`scene.place(graphic4, at: Point(x: -350, y: -340))`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 非常不错！
+
+**思路：** 将背景图像设成你自己的照片（可以是你与朋友的自拍照），并在照片上添加说明！
+
+[**下一页**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

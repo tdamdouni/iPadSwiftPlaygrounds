@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Tu peux choisir une image d’arrière-plan parmi les images disponibles ou dans ta photothèque. Tu peux même utiliser un appareil photo pour prendre une photo à utiliser comme arrière-plan !
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Quelle magnifique scène !
+
+Vois comme l’image en arrière-plan obscurcit la couleur d’arrière-plan. Si tu choisis une image qui possède des parties transparentes, comme **Blu**, la couleur d’arrière-plan affiche les parties transparentes de l’image. Garde ceci à l’esprit lorsque tu choisiras l’image en arrière-plan de ta scène.
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

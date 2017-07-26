@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>前のステージと同じように、まずは、キャラクターとエキスパートを[初期化](glossary://initialization)しましょう。その後、それぞれの[インスタンス](glossary://instance)の[メソッド](glossary://method)を呼び出します。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

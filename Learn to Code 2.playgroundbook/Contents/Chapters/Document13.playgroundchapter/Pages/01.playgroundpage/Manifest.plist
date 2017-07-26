@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Iteration Exploration</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>When naming the [variable](glossary://variable) in your `for`-`in` loop, remember to use **camelCase**, starting the variable with a lower-case letter. For example, `column`, `currentColumn`, or `eachColumn` would all work as variable names. `Column` would not, since it starts with a capital letter.</string>
+		</dict>
+	</array>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>PosterReference</key>
+	<string>LiveViewPoster.png</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>MaximumSupportedExecutionSpeed</key>
+	<string>Fastest</string>
+</dict>
+</plist>

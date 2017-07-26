@@ -1,0 +1,17 @@
+//
+//  PlaygroundsContent.xcconfig
+//
+//  Copyright © 2016 Apple Inc. All rights reserved.
+//
+
+#include "PlaygroundsContent.xcconfig"
+
+CONTENT_NAME = Learn to Code 3
+FEED_DATA_SOURCE = LearntoCode3
+CONTENT_BUNDLE_IDENTIFIER = com.apple.playgrounds.learntocode3.edition2.gm
+CONTENT_VERSION = 1.0
+CONTENT_EDITION = Swift 3.1 Edition
+CONTENT_SUBTITLE = Explore the Universe
+CONTENT_LANGUAGES = English, German, French, Japanese, Simplified Chinese, and Latin American Spanish.
+CONTENT_PUBLISHER = Apple
+CONTENT_DESCRIPTION = In Learn to Code 3, you’ll expand your coding skills to start thinking more like an app developer.\\n\\nEncountering the interstellar space of Blu’s universe, you’ll build a set of creative tools as you explore powerful coding concepts that professional developers use. As you learn about graphics and coordinates, you’ll be able to place and manipulate images. Combining these techniques with touch events, you’ll paint artistic shapes in space.\\n\\nAfter a brief encounter with strings, you’ll be launching words and even emoji into space. Add speech synthesis and sound effects, and before long, you’ll be filling the silence of Blu’s universe with voices and sounds.\\n\\nFinally, you’ll explore event handlers as you use real events, such as finger movements or taps, to trigger your code. With event handlers, you’ll choreograph dancing aliens, turn the universe into a giant musical instrument, or build your own digital lock. By the time you finish, you’ll be combining your skills expertly, writing your most advanced code yet!\\n\\nWhat’s New\\n- Additional languages supported

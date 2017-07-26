@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、クリアする方法をいろいろと考えてみましょう。条件分岐コードと論理演算子を使って、ステージ内を動くための規則を考えます。最後に、その規則をコードに書いて、テストしてみましょう。最初はうまくいかないかもしれませんが、あきらめずにがんばれば、きっと答えが見つかります!</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

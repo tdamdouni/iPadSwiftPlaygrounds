@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>ここでは、2つの変数を操作しなければいけません。1つは、宝石の数を記録する変数、もう1つは、入っているスイッチを記録する変数です。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

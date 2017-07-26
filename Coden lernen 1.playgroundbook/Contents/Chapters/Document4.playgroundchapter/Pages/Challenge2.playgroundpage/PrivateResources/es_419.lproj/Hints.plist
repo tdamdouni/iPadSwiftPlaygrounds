@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Cualquier espacio en el cuadro podría tener una joya, un interruptor activado o un interruptor desactivado. Primero, escribe una función llamada `checkTile()` para verificar cada posibilidad en cada espacio.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

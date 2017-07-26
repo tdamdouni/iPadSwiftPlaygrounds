@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Modifie la condition de ton [instruction `if`](glossary://if%20statement) pour qu’elle recherche des coordonnées dont la colonne est supérieure à `5` ou un rang inférieur à `4`. Souviens-toi de la différence entre les opérateurs [&amp;&amp;](glossary://logical%20AND%20operator) et [||](glossary://logical%20OR%20operator) !</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

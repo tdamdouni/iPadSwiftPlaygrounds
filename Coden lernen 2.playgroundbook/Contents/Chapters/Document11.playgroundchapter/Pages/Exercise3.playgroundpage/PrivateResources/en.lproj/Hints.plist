@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>You can tap on a tile to see its coordinate value. Find the location you'd like your expert to start at, then tap the tile to figure out which column and row value to pass into your `place` method.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

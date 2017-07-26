@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Get the next position and increment `pointIndex`:\
+`let position = points[pointIndex]`\
+`pointIndex += 1`
+		</string>
+		<string>
+Reset `pointIndex` so it stays within the array bounds:\
+`if pointIndex == points.count {`\
+`   pointIndex = 0`\
+`}`\
+Or, better still, use the modulo (%) operator:\
+`let position = points[pointIndex % points.count]`
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Get position.`\
+`let position = points[pointIndex]`\
+`//➤ Increment pointIndex.`\
+`pointIndex += 1`\
+`if pointIndex == points.count {`\
+`   pointIndex = 0`\
+`}`\
+`//➤ Move graphic to position.`\
+`graphic.move(to: position, duration: 1.0)`
+	</string>
+	<key>success</key>
+	<string>
+### Congratulations!
+
+Experiment with different points, functions, and parameters to get different patterns.
+
+**Challenge:** The points returned by a pattern function are positioned around the center of the scene. You can easily add an x, y offset to each point, placing the pattern anywhere you like. See if you can place several patterns in different places on the scene.
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

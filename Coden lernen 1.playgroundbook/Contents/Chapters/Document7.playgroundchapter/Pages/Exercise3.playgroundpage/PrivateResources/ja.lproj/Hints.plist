@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>このステージは今までよりも難しく思えるかもしれませんが、右手法を使って解けますよ。迷路の壁をずっと右手で触りながら歩くと、最後には宝石にたどり着きます。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

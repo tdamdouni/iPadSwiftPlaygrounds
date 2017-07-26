@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>`totalGems`（宝石の合計数）はステージで現れる宝石の総数を表します。宝石を集めるのをいつやめるかを決めるには、この[定数](glossary://constant)を、宝石の数を記録する[変数](glossary://variable)と一緒に使います。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まっすぐに進んだときに宝石が **ない**マスには、横に階段が現れますよね。「キャラクターが宝石の上にいない」という条件を使って、その場合はどうするかを考えましょう。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

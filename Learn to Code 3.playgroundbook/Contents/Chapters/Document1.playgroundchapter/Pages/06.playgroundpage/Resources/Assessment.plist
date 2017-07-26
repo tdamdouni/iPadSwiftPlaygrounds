@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Put the graphic into an orbit around the center:\
+`graphic.orbit(x: x, y: y, period: period)`
+		</string>
+		<string>
+Try changing `period` to a random `Double` from 0.5 to 4.0.
+		</string>
+	</array>
+	<key>success</key>
+	<string>
+### Awesome! You’ve mastered the art of planetary motion!
+
+**Remember:** The `Double` type is used for any number value that isn’t a whole number.
+
+Now it’s time to move on to [**Touch Events**](Touch%20Events/Introduction)!
+	</string>
+</dict>
+</plist>

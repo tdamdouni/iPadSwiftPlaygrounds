@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Trace rapidement les axes x et y sur une feuille de papier pour en déterminer les coordonnées. Rappelle-toi que x correspond à l’axe horizontal et y, à l’axe vertical avec (0, 0) au centre.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Les coordonnées des quatre quadrants présentent chacune une combinaison différente de valeurs x et y positives ou négatives : en haut à droite : (+, +), en bas à droite : (+, -), en bas à gauche : (-, -) et en haut à gauche : (-, +).
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Bien joué !
+
+ À quoi ressemblerait ton code si tu devais placer 10 objets sur la scène, ou même 30 ?! Regarde combien de code se répète. Chaque fois que tu vois du code répété de cette façon, dis-toi : « Est-ce que je pourrais faire autrement ? »
+ 
+ **Réfléchis :** Y a-t-il un moyen plus efficace de réaliser ceci à l’aide d’un tableau ?
+
+ Découvre ceci à la [**page suivante**](@next).
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

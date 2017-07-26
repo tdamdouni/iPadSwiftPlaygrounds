@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Du musst zwei Schleifen schreiben. Führe die erste, die [äußere Schleife](glossary://outer%20loop), solange aus, wie dein Charakter nicht blockiert wird. Die zweite, die [innere Schleife](glossary://inner%20loop), bewegt deinen Charakter vorwärts, wenn er sich nicht auf einem Edelstein befindet. Die äußere Schleife führt die innere Schleife solange aus, bis die äußere Schleife nicht mehr ausgeführt wird. So wird die `while`-Schleife kontinuierlich ausgeführt, bis die Endbedingung erfüllt ist.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

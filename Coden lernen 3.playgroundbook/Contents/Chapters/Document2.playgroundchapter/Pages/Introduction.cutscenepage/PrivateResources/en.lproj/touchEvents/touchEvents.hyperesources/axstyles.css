@@ -1,0 +1,37 @@
+/* Copyright Apple 2016+ */
+/* Author: jcraig */
+
+html, body {
+	font-size: 100%;
+	font-family: helvetica, sans-serif;
+}
+
+#axcontents {
+	pointer-events: none;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -512px;
+	width: 1024px;
+	height: 700px;
+	opacity: 0;
+	font-size: 1.5rem;
+	z-index: 2;
+	background-color: rgba(255,0,0,0.3);
+}
+#axcontents > * {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	height: 44px;
+	text-align: center;
+}
+
+/* pre blocks in playgrounds represent code, so speak all punctuation. */
+pre, code {
+	white-space: pre;
+	speak: literal-punctuation;
+	font-family: monaco, monospace;
+	font-size: 1.8rem;
+}

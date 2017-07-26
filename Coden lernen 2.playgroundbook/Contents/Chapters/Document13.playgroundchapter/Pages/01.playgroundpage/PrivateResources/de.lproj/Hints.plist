@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Achte darauf, beim Benennen der [Variable](glossary://variable) in deiner `for - in`-Schleife **BinnenMajuskel** zu verwenden und den ersten Buchstaben der Variable klein zu schreiben. Beispielsweise eignen sich `column`, `currentColumn` und `eachColumn` alle als Variablennamen, `Column` hingegen nicht, da es mit einem Großbuchstaben beginnt.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

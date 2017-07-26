@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+在纸上描绘出 x 轴和 y 轴有助于你算出坐标。记住 x 是横轴，而 y 是纵轴，中心为 (0, 0)。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+四个象限中的坐标都是由不同的 x, y 正负值构成，即右上：(+, +)，右下：(+, -)，左下：(-, -)，左上(-, +)。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 干得不错！
+
+ 如果要将 10 个或甚至是 30 个对象放置在场景中，你的代码会是什么样？！注意一下有多少代码是重复的。每次看到代码重复时就问问自己“会有更好的方法吗？”。
+ 
+ **思考：** 使用数组会不会有更高效的解决方案？
+
+ 请在[**下一页**](@next)寻找答案。
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>`moveForward()`（進む）コマンドを変更せずに、`else`ブロックをそのまま残してみてください。代わりに、`if`ブロックの中のコマンドを修正してください。
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Try other fonts, such as `bradleyHand`, `markerfelt`, or `zapfino`.
+		</string>
+		<string>
+Use the **Move** tool to tweak the positions of your graphics.
+		</string>
+		<string>
+You use the `rotation` property of `Graphic` like this: `quote1.rotation = 30`.
+		</string>
+		<string>
+Try splitting up a quote into individual words or phrases so you can position them separately.
+		</string>
+	</array>
+</dict>
+</plist>

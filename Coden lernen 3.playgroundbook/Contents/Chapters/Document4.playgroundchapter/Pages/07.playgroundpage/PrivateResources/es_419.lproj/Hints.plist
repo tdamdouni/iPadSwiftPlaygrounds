@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Si tienes problemas para tocar los FRUVNIS, incremente su periodo de órbita en `addFructoid` para que se muevan más lentamente.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Cuando el valor `scale` del gráfico tocado baje a cierto nivel (por ejemplo, 0.6), puedes destruir el gráfico usando `graphic.moveAndZap(to: blackHolePosition)`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Add code here.`\
+`graphic.scale -= 0.5`\
+`graphic.alpha -= 0.25`\
+`if graphic.scale &lt; 0.6 {`\
+`   graphic.moveAndZap(to: blackHolePosition)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Parece que te mereces una medalla por aplastar FRUVNIS!
+
+**Reto:** intenta hacer que algunas frutas sean más difíciles de destruir. Un gráfico fructoide está creado a partir de un emoji, así que puedes comparar su propiedad `text` de esta forma: `if graphic.text == "🍏"`. Si reduces los valores de `scale` y `alpha`, vas a necesitar tocarlos más veces para destruir la fruta.
+
+En la [**siguiente página**](@next), aprenderás a usar un solo botón para destruir todos los FRUVNIS a la vez.
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

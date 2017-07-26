@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CodeCopySetup</key>
+	<dict>
+		<key>CopyCommandButtonTitle</key>
+		<string>YES PLEASE! BRING OVER MY CODE.</string>
+		<key>DefaultCommandButtonTitle</key>
+		<string>START CODING ON THIS PAGE</string>
+		<key>NavigateCommandButtonTitle</key>
+		<string>RETURN TO PREVIOUS PAGE</string>
+		<key>NotReadyToCopyInstructions</key>
+		<string>You should really complete the previous page first.</string>
+		<key>ReadyToCopyInstructions</key>
+		<string>Before starting, you may bring some of your code over from the previous page.</string>
+	</dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>
+**Remember:** The first item in an array is at index 0.
+		</string>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<string>
+**Tip:** When working with [arrays](glossary://array) and [indexes](glossary://index), it can be helpful to get a pencil and paper and sketch the array with its items and their indexes.
+		</string>
+		</dict>
+	</array>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Name</key>
+	<string>Changing an Array</string>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Ändere den Wert so, dass `addImage()` immer zurückkehrt, wenn `touch.previousPlaceDistance` weniger ist als 80.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Verstanden?
+
+Wenn du einen größeren Wert verwendest, muss sich dein Finger weiterbewegen, bevor `touch.previousPlaceDistance` den Wert erreicht und die Sterne werden weiter auseinander platziert. Versuche es mit ein paar verschiedenen Werten.
+
+[**Nächste Seite**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

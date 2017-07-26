@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+シーンは四角形で、左下の`Point(x: -500, y: -500)`から右上の`Point(x: 500, y: 500)`まで広がります。
+</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+紙に宇宙を描いて、原点(0, 0)に印を付けます。次に、銀河の中心の位置に印を付け、その座標を大まかに調べます。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+銀河はシーンの右上の象限にあるため、その座標は(x, y)のようになります。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### やりましたね!
+
+シーンに新しいグラフィックを配置したいときは、最初に`Graphic`（グラフィック）型のインスタンスを作成してから、シーンの`place()`（配置）メソッドを呼び出して`Graphic`のインスタンスと`Point`（点）の値を渡します。
+
+[**次のページ**](@next)
+            </string>
+		</dict>
+	</dict>
+</dict>
+</plist>

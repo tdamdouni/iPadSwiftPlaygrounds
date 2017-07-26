@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Change the emoji used for the graphic, or pick one at random from an array of emoji.
+		</string>
+		<string>
+Pick a different-colored emoji from an array, depending on which note is being played.
+		</string>
+		<string>
+Experiment with the graphic’s `scale`: try very large `scale` values.
+		</string>
+		<string>
+Use a different instrument for each quadrant.
+		</string>
+	</array>
+</dict>
+</plist>

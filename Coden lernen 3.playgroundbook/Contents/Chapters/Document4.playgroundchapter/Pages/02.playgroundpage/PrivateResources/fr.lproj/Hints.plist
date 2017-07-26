@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+**Rappel :** Le nom complet d’une fonction contient les noms de ses paramètres séparés par des deux-points (`:`). Le nom complet de la fonction`addAlien()` est `addAlien(touch:)`.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Bien joué !
+
+ Tu te demandes peut-être comment tu peux définir une propriété comme `onFingerMoved` sur une fonction. Eh bien, au lieu d’avoir un type comme `String` ou `Int`, `onFingerMoved` a un type *function*. Il peut être défini sur toute fonction ayant un seul paramètre `Touch`, comme `addAlien(touch:)` ou `addMonster(touch:)`.
+
+[**Page suivante**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

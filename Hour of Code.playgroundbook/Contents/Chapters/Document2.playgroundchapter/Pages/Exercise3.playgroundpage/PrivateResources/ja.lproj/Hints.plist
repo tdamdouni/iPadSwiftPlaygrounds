@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、`solveStair()`（階段をクリア）関数を定義しましょう。この関数の中で、階段を上って、宝石を取って、後ろを向いて、中央に戻ります。
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

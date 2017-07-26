@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+如果轻点不到不明飞行体，请在 `addFructoid` 中增加它们的轨道周期，使它们移动得更慢。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+当触碰图形的 `scale` 值低于一定程度（例如，0.6）时，使用 `graphic.moveAndZap(to: blackHolePosition)` 毁坏图形。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string>
+`// Add code here.`\
+`graphic.scale -= 0.5`\
+`graphic.alpha -= 0.25`\
+`if graphic.scale &lt; 0.6 {`\
+`   graphic.moveAndZap(to: blackHolePosition)`\
+`}`
+	</string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### 看来你赢得了不明飞行体克星徽章！
+
+**挑战：** 尝试把一些水果设为更难摧毁。飞行体图形使用表情符号创建，因此你可以像这样比较其 `text` 属性：`if graphic.text == "🍏"`。如果减小 `scale` 和 `alpha` 的值，你将需要触碰更多次才能消灭水果。
+
+在[**下一页**](@next)中，你将了解如何使用单个按钮同时压扁所有的不明飞行体！
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

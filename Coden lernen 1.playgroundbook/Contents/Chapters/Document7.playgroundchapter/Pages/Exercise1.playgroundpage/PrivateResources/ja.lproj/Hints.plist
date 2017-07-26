@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>まずは、書かれているコードを実行してみましょう。`navigateAroundWall()`（壁を周って進む）関数では、キャラクターがステージ内の壁をぐるりと周ります。すべての宝石を集めて、ステージの端にあるスイッチを切り替えるように、コードを書き直しましょう。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

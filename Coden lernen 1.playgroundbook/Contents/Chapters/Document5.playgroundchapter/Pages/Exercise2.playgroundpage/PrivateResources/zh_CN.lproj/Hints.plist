@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>首先，添加 `if` 语句来检查你的角色是否位于宝石处。然后在快捷工具栏中轻点 &amp;&amp; 来添加条件，以检查你的角色左侧是否受阻。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

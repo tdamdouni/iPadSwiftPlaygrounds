@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+`Tool`（ツール）インスタンスを作成して、名前と絵文字アイコンを指定します。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+ツールの`onFingerMoved`（指を動かしたとき）プロパティを「指を動かした」イベントハンドラ関数の完全な名前に設定します。
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+ツールの`onGraphicTouched`（グラフィックをタッチしたとき）プロパティを、「グラフィックをタッチした」イベントハンドラ関数の完全な名前に設定します。
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### よくできました!
+
+以下のツールのプロパティを **思い出してください**:
+
+* `onFingerMoved`（指を動かしたとき）: `Touch`（タッチ）パラメータを持つ「指を動かした」イベントハンドラ関数を取ります。
+
+* `onGraphicTouched`（グラフィックをタッチしたとき）: `Graphic`（グラフィック）パラメータを持つ「グラフィックをタッチした」イベントハンドラ関数を取ります。
+
+[**次のページ**](@next)では、グラフィックをタッチしたときにグラフィックを変更する方法を調べます。
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

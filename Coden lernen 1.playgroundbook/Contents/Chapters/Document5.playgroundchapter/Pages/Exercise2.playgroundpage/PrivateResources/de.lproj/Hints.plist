@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Füge zunächst eine `if`-Anweisung hinzu, die prüft, ob dein Charakter sich auf einem Edelstein befindet. Tippe dann auf `&amp;&amp;` in der Kurzbefehlleiste, um eine Bedingung hinzuzufügen, die prüft, ob dein Charakter links blockiert ist.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

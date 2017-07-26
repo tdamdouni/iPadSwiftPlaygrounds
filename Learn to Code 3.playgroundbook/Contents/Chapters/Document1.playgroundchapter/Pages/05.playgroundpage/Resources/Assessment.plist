@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+**Remember:** The first item in an array is at index 0.
+		</string>
+		<string>
+**Tip:** When working with [arrays](glossary://array) and [indexes](glossary://index), it can be helpful to get a pencil and paper and sketch the array with its items and their indexes.
+		</string>
+	</array>
+	<key>solution</key>
+	<string>
+`//➤ Insert and remove items`\
+`images.insert(rugbyBall, at: 1)`\
+`images.remove(at: 4)`
+	</string>
+	<key>success</key>
+	<string>
+### Super!
+
+Keeping track of array indexes can be tricky! Say you removed planet Billiardball and then wanted to insert planet Rugbyball at the end of the array, after planet Basketball. Which index would you insert planet Rugbyball at?
+
+[**Next Page**](@next)
+	</string>
+</dict>
+</plist>

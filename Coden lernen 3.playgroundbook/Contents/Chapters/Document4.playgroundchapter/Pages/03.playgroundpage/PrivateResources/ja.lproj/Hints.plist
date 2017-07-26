@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+名前と絵文字アイコンを指定して、ツールを作成します。例:\
+`let fruitTool = Tool(name: "Fruit", emojiIcon: "🍒")`\
+または:\
+`let greetingTool = Tool(name: "Greeting", emojiIcon: "🙏")`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+ツールの`onFingerMoved`（指を動かしたとき）プロパティを、いずれかのイベントハンドラ関数の完全な名前に設定します。例:\
+`fruitTool.onFingerMoved = addFruit(touch:)`\
+または:\
+`greetingTool.onFingerMoved = addGreeting(touch:)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+最後に、ツールをシーンに追加します。例:\\
+`scene.tools.append(fruitTool)`\
+または:\
+`scene.tools.append(greetingTool)`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### おめでとうございます!
+
+**課題:** 自分だけの`onFingerMoved`（指を動かしたとき）関数を書いて、それを呼び出す新しいツールを追加してください。
+
+[**次のページ**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Commence par exécuter le code fourni. La fonction `navigateAroundWall()` fera faire à ton personnage un tour complet autour l’un des murs du monde du puzzle. Travaille à partir du code existant, en l’affinant de façon à collecter toutes les gemmes et à activer l’interrupteur qui se trouve dans le coin le plus éloigné du monde.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Modify the condition of your [`if` statement](glossary://if%20statement) so that it checks for coordinates with a column greater than `5` or a row less than `4`. Remember the difference between the [&amp;&amp;](glossary://logical%20AND%20operator) and the [||](glossary://logical%20OR%20operator) operators!</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

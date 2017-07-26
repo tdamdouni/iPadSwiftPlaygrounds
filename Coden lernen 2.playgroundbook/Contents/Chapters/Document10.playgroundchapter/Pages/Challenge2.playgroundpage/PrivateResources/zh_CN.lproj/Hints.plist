@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>按照你在之前关卡中的操作，先[初始化](glossary://initialization)你的角色和专家。然后调用那些[实例](glossary://instance)上的[方法](glossary://method)来通关。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

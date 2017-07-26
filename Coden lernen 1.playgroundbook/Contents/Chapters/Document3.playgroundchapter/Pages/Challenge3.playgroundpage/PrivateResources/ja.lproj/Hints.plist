@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>このレベルで上がる大きな階段が3つあります。それぞれの階段で、キャラクターが一番上に移動してスイッチを切り替えてから下に戻るというアクションを実行する関数を使用します。
+            </string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

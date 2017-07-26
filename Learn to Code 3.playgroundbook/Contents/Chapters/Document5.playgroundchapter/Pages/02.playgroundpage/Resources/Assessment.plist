@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Use a different set of emoji such as fruit 🍋🍏🍎, or flowers 🌺🌼🌸, or even faces 😳😈😡.
+		</string>
+		<string>
+Use a different background image or color.
+		</string>
+		<string>
+Try different ranges for the random parameters such as the square `width`, circle `radius`, or spiral `spacing; for example:`\
+`let radius = randomDouble(from: 20, to: 800)`
+		</string>
+	</array>
+</dict>
+</plist>

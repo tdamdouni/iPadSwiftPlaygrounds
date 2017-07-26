@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Para crear una instancia de `Tool`, asígnale un nombre y un emoji.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Establece la propiedad `onFingerMoved` de la herramienta al nombre completo de una función de controlador de eventos “dedo movido”.
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Establece la propiedad `onGraphicTouched` de la herramienta al nombre completo de la función de controlador de eventos “gráfico tocado”.
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ¡Buen trabajo!
+
+**Recuerda** estas propiedades de las herramientas:
+
+* `onFingerMoved`: toma una función de controlador de evento “dedo movido” con un parámetro `Touch`.
+
+* `onGraphicTouched`: toma una función de controlador de evento “gráfico tocado” con un parámetro `Graphic`.
+
+En la [**siguiente página**](@next), descubrirás cómo modificar gráficos al tocarlos.
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

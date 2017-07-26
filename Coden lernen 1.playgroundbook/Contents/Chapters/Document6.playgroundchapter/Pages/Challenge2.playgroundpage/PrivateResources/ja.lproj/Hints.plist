@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>これまでに学んだすべての技を思い出してください: [関数](glossary://function)、[`for`ループ](glossary://for%20loop)、[`while`ループ](glossary://while%20loop)、[条件分岐コード](glossary://conditional%20code)、[論理演算子](glossary://logical%20operator)。すでにあるこれらの技を使って、どのようにこのステージをクリアできるでしょうか?</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

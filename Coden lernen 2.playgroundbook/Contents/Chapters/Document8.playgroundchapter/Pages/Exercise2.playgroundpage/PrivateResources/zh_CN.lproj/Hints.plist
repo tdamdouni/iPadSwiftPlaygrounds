@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>你的角色应当收集世界中的所有宝石，而你需要持续跟进所收集的宝石数量。每收集一颗宝石，`gemCounter` 就递增 1。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

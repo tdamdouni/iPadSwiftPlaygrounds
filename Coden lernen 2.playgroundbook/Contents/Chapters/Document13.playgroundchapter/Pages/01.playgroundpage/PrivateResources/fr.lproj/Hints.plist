@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Lorsque tu nommes la [variable](glossary://variable) dans ta boucle `for`-`in`, souviens-toi d’utiliser **camelCase** en utilisant une minuscule pour la première lettre de la variable. Par exemple, `column`, `currentColumn` ou `eachColumn` pourraient tous fonctionner comme noms de variables. `Column` ne marcherait pas car le mot commence par une lettre majuscule.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

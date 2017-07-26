@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Create your own array of images, and use it instead of `animals`.
+		</string>
+		<string>
+Use different effects and periods, depending on the image.
+		</string>
+	</array>
+</dict>
+</plist>

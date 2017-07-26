@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hints</key>
+	<array>
+		<string>
+Find the story lines beginning with "..." and replace them with your own story.
+		</string>
+		<string>
+Add another story line using `lines.append(\"...\")`. Don’t forget to add corresponding emoji to the `illustrations` array.
+		</string>
+		<string>
+Add your own characters and things to wear! Make sure each is defined using a word followed by a space and then an emoji.
+		</string>
+		<string>
+Add your own arrays with lists of, for example, monsters or weapons. Then use string interpolation in your story lines to insert random items from your arrays.
+		</string>
+	</array>
+</dict>
+</plist>

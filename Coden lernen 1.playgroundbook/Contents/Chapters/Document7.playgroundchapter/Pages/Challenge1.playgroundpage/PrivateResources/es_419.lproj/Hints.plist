@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Primero, busca un patrón en el rompecabezas. Cuando lo hayas encontrado, piensa en qué reglas e instrucciones resolverían cada parte del patrón. Cuando lo hayas averiguado, escribe tu código.</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Observa que cuando hay joyas, el camino se mueve a la derecha; si hay interruptores, el camino se mueve a la izquierda. Usa este patrón para crear tu algoritmo.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>Primero, [define](glossary://define) la función `move`. En la función, escribe un bucle `for` que use el valor `distance` para determinar cuántas veces se debe ejecutar el bucle.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

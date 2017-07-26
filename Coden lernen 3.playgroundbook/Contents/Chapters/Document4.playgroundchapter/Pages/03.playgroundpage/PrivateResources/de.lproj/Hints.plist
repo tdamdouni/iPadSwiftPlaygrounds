@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Erstelle ein Werkzeug und gib ihm einen Namen und ein Emojisymbol. Zum Beispiel:\
+`let fruitTool = Tool(name: "Fruit", emojiIcon: "🍒")`
+oder:\
+`let greetingTool = Tool(name: "Greeting", emojiIcon: "🙏")`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Stelle die Eigenschaft `onFingerMoved` auf den vollständigen Namen einer der Ereignishandler-Funktionen ein, zum Beispiel:\
+`fruitTool.onFingerMoved = addFruit(touch:)`\
+oder:\
+`greetingTool.onFingerMoved = addGreeting(touch:)`
+		</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>
+Füge schließlich das Werkzeug in die Szene ein. Zum Beispiel:\
+`scene.tools.append(fruitTool)`\
+oder:\
+`scene.tools.append(greetingTool)`
+		</string>
+			</dict>
+		</dict>
+	</array>
+	<key>solution</key>
+	<string></string>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### Glückwunsch!
+
+**Herausforderung:** Versuche selbst die Funktion `onFingerMoved` zu schreiben und ein Werkzeug hinzuzufügen, um sie aufzurufen.
+
+[**Nächste Seite**](@next)
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

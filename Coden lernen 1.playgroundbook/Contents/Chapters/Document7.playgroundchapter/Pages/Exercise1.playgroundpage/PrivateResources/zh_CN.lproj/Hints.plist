@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>_LOCALIZABLE_</key>
+			<dict>
+				<key>Content</key>
+				<string>首先运行所提供的代码。函数 `navigateAroundWall()` 将使你的角色绕着关卡世界中某堵墙一直走。基于现有代码进行优化，从而收集世界中最远的角处的宝石并切换开关。</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
